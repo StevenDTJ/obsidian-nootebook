@@ -14,3 +14,17 @@ nul
 # 音频文件
 *.m4a
 *.mp3
+
+# 附件与图片
+attachments/
+附件/
+image/
+temp_image/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.bmp
+*.pdf
