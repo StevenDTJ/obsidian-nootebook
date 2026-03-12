@@ -1,0 +1,214 @@
+# 研究兴趣配置文件
+# 用于 start-my-day 论文推荐工作流
+
+# 研究领域配置（脚本使用 research_domains 字典格式）
+research_domains:
+  社会保障:
+    name_en: Social Security
+    priority: 10
+    keywords:
+      - social security
+      - social insurance
+      - social protection
+      - pension system
+      - retirement insurance
+      - unemployment insurance
+      - social welfare
+      - social assistance
+      - social safety net
+      - welfare state
+    keywords_zh:
+      - 社会保障
+      - 社会保险
+      - 社会救助
+      - 养老保险
+      - 失业保险
+      - 社会福利
+      - 社会保护
+      - 福利国家
+
+  公共经济学:
+    name_en: Public Economics
+    priority: 9
+    keywords:
+      - public economics
+      - public finance
+      - fiscal policy
+      - taxation
+      - government expenditure
+      - public goods
+      - externalities
+      - income redistribution
+      - transfer payments
+      - public budget
+      - intergovernmental fiscal relations
+    keywords_zh:
+      - 公共经济学
+      - 公共财政
+      - 财政政策
+      - 税收
+      - 政府支出
+      - 公共品
+      - 外部性
+      - 收入再分配
+      - 转移支付
+      - 政府间财政关系
+
+  卫生政策:
+    name_en: Health Policy
+    priority: 10
+    keywords:
+      - health policy
+      - health care policy
+      - health reform
+      - health care reform
+      - universal health coverage
+      - health system
+      - health governance
+      - primary health care
+      - health regulation
+      - pharmaceutical policy
+      - health insurance policy
+      - medical insurance
+      - health care access
+    keywords_zh:
+      - 卫生政策
+      - 医疗卫生政策
+      - 医疗改革
+      - 全民健康覆盖
+      - 卫生体系
+      - 卫生治理
+      - 基层医疗
+      - 医疗保险
+      - 医疗保障
+      - 药品政策
+
+  公共管理:
+    name_en: Public Administration
+    priority: 8
+    keywords:
+      - public administration
+      - public management
+      - public governance
+      - government performance
+      - public service
+      - bureaucracy
+      - policy implementation
+      - policy evaluation
+      - institutional reform
+      - public sector reform
+      - e-government
+      - digital government
+    keywords_zh:
+      - 公共管理
+      - 公共治理
+      - 政府绩效
+      - 公共服务
+      - 政策执行
+      - 政策评估
+      - 制度改革
+      - 数字政府
+      - 电子政务
+
+  卫生经济学:
+    name_en: Health Economics
+    priority: 10
+    keywords:
+      - health economics
+      - health expenditure
+      - health care cost
+      - health financing
+      - catastrophic health expenditure
+      - out-of-pocket payment
+      - cost-effectiveness analysis
+      - health care utilization
+      - health insurance
+      - medical expenditure
+      - health care demand
+      - health care supply
+      - health human resources
+      - economic burden of disease
+    keywords_zh:
+      - 卫生经济学
+      - 卫生支出
+      - 医疗费用
+      - 卫生筹资
+      - 灾难性卫生支出
+      - 自付费用
+      - 成本效果分析
+      - 卫生服务利用
+      - 疾病经济负担
+      - 医疗卫生人力资源
+
+  健康公平:
+    name_en: Health Equity
+    priority: 10
+    keywords:
+      - health equity
+      - health equality
+      - health disparity
+      - health gap
+      - equitable access
+      - social determinants of health
+      - vulnerable populations
+      - underserved populations
+      - health justice
+      - right to health
+      - pro-poor health policy
+    keywords_zh:
+      - 健康公平
+      - 健康平等
+      - 健康差距
+      - 公平可及
+      - 健康的社会决定因素
+      - 弱势群体健康
+      - 健康权
+      - 亲贫卫生政策
+
+  健康不平等:
+    name_en: Health Inequality
+    priority: 9
+    keywords:
+      - health inequality
+      - health inequity
+      - socioeconomic health inequality
+      - income-related health inequality
+      - urban-rural health disparity
+      - regional health disparity
+      - gender health inequality
+      - racial health disparity
+      - ethnic health disparity
+      - concentration index
+      - Gini coefficient health
+      - decomposition analysis
+      - gradient in health
+    keywords_zh:
+      - 健康不平等
+      - 健康不公平
+      - 社会经济健康不平等
+      - 收入相关健康不平等
+      - 城乡健康差异
+      - 地区健康差异
+      - 性别健康不平等
+      - 集中指数
+      - 基尼系数
+      - 分解分析
+
+# 排除关键词
+excluded_keywords: []
+
+# 搜索配置
+search:
+  days: 90
+  max_results: 100
+  top_n: 10
+  sources:
+    - pubmed
+    - s2
+
+# 评分权重
+weights:
+  relevance: 0.45
+  recency: 0.25
+  popularity: 0.20
+  quality: 0.10
