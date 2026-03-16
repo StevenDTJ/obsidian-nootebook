@@ -1,0 +1,368 @@
+{
+  "search_date": "2026-03-16",
+  "date_range": {
+    "start": "2025-12-16",
+    "end": "2026-03-16"
+  },
+  "total_found": 100,
+  "total_filtered": 10,
+  "sources": [
+    "pubmed",
+    "s2"
+  ],
+  "top_papers": [
+    {
+      "id": "PMID:41733311",
+      "pmid": "41733311",
+      "title": "Primary health care policy advocacy in Europe: A cross-sectional study of family medicine associations.",
+      "abstract": "Policy advocacy (PA) in European healthcare has a strong tradition promoting evidence-based policies. Key organisations, including the European Observatory on Health Systems and Policies, the WHO's Evidence-Informed Policy Network, and the OECD play pivotal roles in integrating research into policymaking. To assess the involvement of European Family Medicine (FM) Associations in PA, identify key issues, and explore interactions with governmental and institutional bodies related to Primary Health Care (PHC)-defined as first-contact, continuous, comprehensive, and coordinated care provided by general practitioners/family doctors (GPs), in line with the WHO Alma-Ata and Astana declarations-and perceived challenges in PHC advocacy. An exploratory descriptive, cross-sectional study was conducted among WONCA Europe Member Organisations and GPs involved in PA. Data collected between November 2023 and February 2024. Content analysis was performed to identify themes related to advocacy priorities. Responses were received from 12 member organisations across 12 countries and 37 participants from 17 countries. Key concerns included workforce shortages, high workloads, inadequate infrastructure, and insufficient financial compensation. Public visibility, gender equality, and the integration of FM into university curricula were also highlighted. Eleven respondents reported active engagement with national governments in policy discussions. Respondents highlighted the need for a more unified strategy to address common PHC challenges across Europe. WONCA Europe's Working Party on PA supports national efforts through exchange of best practices, research support, and promoting FM at national and European levels. Continued research and advocacy were viewed as essential for sustaining effective and equitable PHC in Europe.",
+      "authors": [
+        "Raquel Gómez-Bravo",
+        "Sara Ares-Blanco",
+        "Nick Mamo",
+        "Marina Guisado-Clavero",
+        "Sandra León-Herrera",
+        "Veronika Rasic",
+        "Ana Luisa Neves",
+        "Andreé Rochfort",
+        "Alex Harding",
+        "Eva Hummers",
+        "Radost Asenova",
+        "Ferdinando Petrazzuoli",
+        "Aaron Poppleton",
+        "Jose Miguel Bueno Ortiz",
+        "Shlomo Vinker",
+        "Maria Pilar Astier-Peña",
+        "Thomas Frese"
+      ],
+      "publication_date": "2026-12-01",
+      "journal": "The European journal of general practice",
+      "doi": "10.1080/13814788.2026.2625572",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41733311/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 2.6,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 2.22
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "primary health care",
+        "health care policy",
+        "health system"
+      ]
+    },
+    {
+      "id": "PMID:41702261",
+      "pmid": "41702261",
+      "title": "Clinical effectiveness and cost-effectiveness of primary community health care nurses: A meta-analysis.",
+      "abstract": "Global shortages in the health-care workforce hinder the achievement of universal health coverage and equitable access to high-quality, affordable health care. Primary community health care nurses have emerged as a strategy to improve access and care quality, but comprehensive evidence on their impact and economic value remains limited. To synthesize evidence on the cost-effectiveness of the use of primary community health care nurses compared with medical practitioners on patient health and economic outcomes. A meta-analysis of economic evaluations alongside randomized controlled trials (RCTs). CINAHL, CENTRAL, Embase, Medline-OVID, PubMed, EconLit, and the National Health Service Economic Evaluation Database were searched until October 2025. The outcomes included patient health outcomes (depression, anxiety, fatigue, activities of daily living, pain, patient satisfaction, total cholesterol, blood pressure, body mass index, mortality) and economic outcomes comprising health resource utilization (outpatient visits, hospitalization, length of stay, generalist medical practitioner consultations, emergency unit visits, specialist medical practitioner visits, and absenteeism) and cost-effectiveness (incremental net monetary benefit from payer and societal perspectives). Data were pooled using a random-effects model, and moderator and meta-regression analyses were conducted to test for heterogeneity. Twenty-one studies involving 14,523 participants were included. Primary community health care nurses significantly improved patient health outcomes (depression: g -0.31; 95% confidence interval -0.47 to -0.15, anxiety: g -0.23; 95% confidence interval -0.35 to -0.11, fatigue: g -0.26; 95% confidence interval -0.45 to -0.07, daily functioning: g 0.08; 95% confidence interval 0.03 to 0.12, patient satisfaction: g 0.25; 95% confidence interval 0.08 to 0.42, and total cholesterol: g -0.38; 95% confidence interval -0.71 to -0.06). They also improved efficiency in health resource utilization (outpatient visit: g -0.33; 95% confidence interval -0.56 to -0.11, hospitalization: g -0.11; 95% confidence interval -0.18 to -0.04, length of stay: g -0.05; 95% confidence interval -0.10 to -0.01, generalist MP consultation: g -0.16; 95% confidence interval -0.25 to -0.08), and exhibited substantial cost-effectiveness (incremental net monetary benefit-payer: US$910.99; 95% confidence interval US$561.74 to US$1260.24 and societal: US$1485.2; 95% confidence interval US$273.24 to US$2697.18) compared with medical practitioners. Primary community health care nurses are a cost-effective solution for achieving universal health coverage and sustainable health care, demonstrating significant cost-effectiveness from payer and societal perspectives. They improve patient health and health resource utilization especially in reducing outpatient visits, hospitalization, length of stay. Strategic investment in their function is essential for advancing health equity and accessible, high-quality primary health care. PROSPERO: CRD420251018431. This meta-analysis of economic evaluation revealed that primary community health care nurses are cost-effective, improve patient outcomes, and reduce health resource utilization. @4_INAns.",
+      "authors": [
+        "Melati Fajarini",
+        "Chien-Mei Sung",
+        "Yi-Shu Lin",
+        "Pi-Yu Su",
+        "Ruey Chen",
+        "Li-Fang Chang",
+        "Kai-Jo Chiang",
+        "Kuei-Ru Chou"
+      ],
+      "publication_date": "2026-05-01",
+      "journal": "International journal of nursing studies",
+      "doi": "10.1016/j.ijnurstu.2026.105365",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41702261/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 2.4,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 2.13
+      },
+      "matched_domains": [
+        "卫生政策",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "primary health care",
+        "universal health coverage",
+        "health equity",
+        "equitable access"
+      ]
+    },
+    {
+      "id": "PMID:41633286",
+      "pmid": "41633286",
+      "title": "Smart insurance analytics: A novel ensemble feature selection approach to unlock health insurance coverage predictions in Sierra Leone.",
+      "abstract": "Predicting health insurance uptake remains a critical challenge for policymakers and insurance providers seeking to optimise coverage strategies and resource allocation. In Sierra Leone, health insurance uptake remains extremely low, and understanding determinants is vital for universal health coverage goals. To develop and evaluate an innovative ensemble feature selection methodology for health insurance uptake prediction, establishing new performance benchmarks through systematic comparison of multiple machine learning algorithms using comprehensive validation strategies. This study employed supervised machine learning to predict health insurance uptake among 15,574 women using data from the 2019 Sierra Leone Demographic and Health Survey (SLDHS). We implemented an ensemble feature selection approach that requires consensus across Adaptive Ant Colony Optimisation, Recursive Feature Elimination, and Backwards Elimination techniques. Seven algorithms were systematically compared: Logistic Regression, Support Vector Machines, K-Nearest Neighbors, Random Forest, Gradient Boosting, XGBoost, and LightGBM. SMOTE addressed class imbalance, whilst validation employed nested 5-fold cross-validation, 10-fold cross-validation, and hold-out testing to prevent information leakage. Random Forest achieved exceptional performance with 0.9973 accuracy, 0.9973 precision, 0.9973 recall, 0.9973 F1-score, and perfect 1.0000 ROC AUC on hold-out testing. XGBoost delivered comparable results with 0.9914 across all metrics and 0.9998 ROC AUC. Backward Feature Elimination consistently yielded superior results across ensemble methods. However, the near-perfect performance warrants cautious interpretation and requires external validation to confirm generalizability. This research establishes new performance benchmarks for health insurance prediction, significantly exceeding existing literature, which has direct implications for health insurance policy and practice in Sierra Leone. The innovative ensemble feature selection methodology provides a robust framework for enhancing prediction accuracy across healthcare applications, offering immediate practical value for stakeholders. Future work should prioritize external validation, explainability analysis, and temporal stability assessment to ensure practical deployment readiness.",
+      "authors": [
+        "David B Olawade",
+        "Augustus Osborne",
+        "Afeez A Soladoye",
+        "Olaitan E Oluwadare",
+        "Emmanuel O Awogbindin",
+        "Ojima Z Wada"
+      ],
+      "publication_date": "2026-05-01",
+      "journal": "International journal of medical informatics",
+      "doi": "10.1016/j.ijmedinf.2026.106313",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41633286/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 2.2,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 2.04
+      },
+      "matched_domains": [
+        "卫生政策",
+        "卫生经济学"
+      ],
+      "matched_keywords": [
+        "health insurance",
+        "health insurance policy",
+        "universal health coverage"
+      ]
+    },
+    {
+      "id": "PMID:41818671",
+      "pmid": "41818671",
+      "title": "Social Determinants and the Role of School-Based Mental Health Services in Adolescents' Depressive Symptoms and Happiness.",
+      "abstract": "Adolescent mental health is a growing concern in the United States. Promoting health equity through addressing social determinants of health (SDOH) is a national priority and aligns with the Social Work Grand Challenge to \"close the health gap.\" School-based mental health services (SBMHS) provide interdisciplinary support to enhance students' emotional, behavioral, and social functioning. This study analyzed data from 12th-grade participants in the 2022 and 2023 Monitoring the Future surveys-an annual, nationally representative, cross-sectional study-to (a) identify SDOH associated with depressive symptoms and happiness among high school seniors and (b) assess the influence of SBMHS on these outcomes. Two hierarchical regression analyses (n = 2,574 for depressive symptoms; n = 2,844 for happiness) revealed that attending schools in medium-sized cities (versus small cities) and having more friends using substances were social determinants associated with both higher depressive symptoms and lower happiness. Higher parental educational attainment and living with both parents were protective social determinants specific to depressive symptoms. SBMHS were significantly associated with reduced depressive symptoms and enhanced happiness. These findings highlight the importance of addressing social determinants of adolescent mental health and advocate for expanding SBMHS.",
+      "authors": [
+        "Soobin Kim",
+        "Isak Kim",
+        "Guijin Lee",
+        "Haewon Oh",
+        "Orion Mowbray"
+      ],
+      "publication_date": "2026-03-12",
+      "journal": "Health & social work",
+      "doi": "10.1093/hsw/hlag004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41818671/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 1.8,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.86
+      },
+      "matched_domains": [
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health gap",
+        "health equity",
+        "social determinants of health"
+      ]
+    },
+    {
+      "id": "PMID:41815384",
+      "pmid": "41815384",
+      "title": "A HEARTS-based integrated model for noncommunicable disease control in primary health care in Peru.",
+      "abstract": "Peru has developed and initiated the scale-up of a HEARTS-based, integrated, person-centered primary health care system to support people living with hypertension, type 2 diabetes mellitus, and chronic kidney disease. The model combines standardized clinical pathways with validated drivers, as well as maturity and performance indexes to promote evidence-based practice and continuous quality improvement across diverse primary care settings. National implementation started in 2024 through a structured capacity-building strategy and the deployment of regional facilitators to support supervision, data quality, and clinical mentoring. Early evaluation indicates progress in clinical standardization and performance monitoring, alongside persistent system-level challenges, including limited clinical training, shortages of essential medicines and diagnostics, and the absence of a unified digital registry. Despite these constraints, Peru's experience shows that integrated, protocol-driven care for noncommunicable diseases can be implemented and scaled in resource-constrained health systems, offering a pragmatic framework for other low- and middle-income countries seeking to address multimorbidity.",
+      "authors": [
+        "Percy Herrera-Añazco",
+        "Carlos Diaz-Arocutipa",
+        "Pedro Kikushima- Alcántara",
+        "Vicente Benites-Zapata"
+      ],
+      "publication_date": "2026-05-01",
+      "journal": "Lancet regional health. Americas",
+      "doi": "10.1016/j.lana.2026.101427",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41815384/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 1.6,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.77
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "primary health care",
+        "health system"
+      ]
+    },
+    {
+      "id": "PMID:41705195",
+      "pmid": "41705195",
+      "title": "Underreporting of social determinants of health in randomized control trials related to total hip and knee arthroplasty: Systematic review 2019-2024.",
+      "abstract": "Race, ethnicity, and social determinants of health (SDoH) are essential in achieving equitable access and care in patients with total hip (THA) and total knee arthroplasty (TKA). Previous studies indicated the low prevalence of reporting SDoH and demographic factors in orthopaedic randomized control trials (RCTs). This study investigates updated trends in reporting the prevalence of patient demographics and SDoH in THA and TKA-related RCTs published between 2019 and 2024. A systematic review of all PubMed-indexed journals relating to arthroplasty was conducted for all RCTs published between 2019 and 2024. Data on the publication year, type of surgery, inclusion of race, ethnicity, insurance, income, education, treatment or exposure, and measured outcomes were recorded. Of 391 studies, only 12 (3.1%) considered race, ethnicity, insurance, income, education, and employment in their research. Less than 2% of papers reported race. No significant differences were found between journal type, publication year, and type of surgery. Insurance, income, education, and/or employment were minimally reported (n = 6; 1.5%). The most common treatments or exposures in studies that included SDoH variables were related to postoperative management (n = 5) and analgesia/anesthesia protocol (n = 3). Commonly measured outcomes were pain and analgesia consumption (n = 6) and functional outcome (n = 4). Reporting on race, ethnicity, and SDoH in RCTs conducted in patients undergoing hip and knee total joint arthroplasty remains insufficient, and no improvements in reporting patterns have been observed over time when comparing the periods included in this study and previous literature. Including these variables in RCTs is of utmost importance to improve the quality of arthroplasty research and orthopaedic care for patients of all backgrounds.",
+      "authors": [
+        "Michelle R Shimizu",
+        "Muhammad H Ilyas",
+        "Isaiah A Freeman",
+        "Hahn Kang",
+        "William T Sampson",
+        "Carlo Mannina",
+        "Young-Min Kwon"
+      ],
+      "publication_date": "2026-04-01",
+      "journal": "Journal of orthopaedics",
+      "doi": "10.1016/j.jor.2026.02.015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41705195/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 1.6,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.77
+      },
+      "matched_domains": [
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "equitable access",
+        "social determinants of health"
+      ]
+    },
+    {
+      "id": "PMID:41624392",
+      "pmid": "41624392",
+      "title": "Relationship between social determinants of health and hip fracture in the American population: a cross-sectional NHANES study.",
+      "abstract": "This article aims to investigate the link between social determinants of health (SDoH) and the occurrence of hip fractures, and to analyze the potential underlying mechanisms of influence. This paper conducted a deep analysis among the general sample population from the National Health and Nutrition Examination Survey (NHANES) 1999-2018. Within each survey period, self-reported data covering eight domains of SDoH were collected, including employment status, poverty-to-income ratio (PIR), food security, educational level, health insurance coverage, type of health insurance, homeownership, and marital status. Concurrently, a history of hip fractures among participants was learned through self-reporting. Correlation analysis, Lasso regression analysis, and the Boruta algorithm were employed to explore the link between SDoH and hip fractures. This study comprehensively analyzed 11,254 adult participants. The findings indicated a notable link between eight sub-items of SDoH and the risk of hip fracture. Specifically, the cumulative number of adverse SDoH was positively linked with the risk of hip fracture. Especially as 4-7 adverse factors were accumulated, the incidence of hip fractures climbed greatly. This paper suggests a marked link between adverse SDoH and the occurrence of hip fractures, particularly when these adverse factors accumulate to a certain number (4-7). A profound probe into the interactions among these SDoH and their mechanisms of influence on fracture risk may offer crucial evidence for the prevention and intervention of hip fractures.",
+      "authors": [
+        "Fangfang Deng",
+        "Huali Guo",
+        "Li Song",
+        "Bo Chen"
+      ],
+      "publication_date": "2026-04-01",
+      "journal": "Journal of orthopaedics",
+      "doi": "10.1016/j.jor.2026.01.008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41624392/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 1.6,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.77
+      },
+      "matched_domains": [
+        "卫生经济学",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health insurance",
+        "social determinants of health"
+      ]
+    },
+    {
+      "id": "PMID:41672092",
+      "pmid": "41672092",
+      "title": "Integrating disability and language access education in undergraduate medical training: a curriculum mapping study at a rural medical school.",
+      "abstract": "This study offers a detailed analysis of how disability and English as a Second Language (ESL) competencies are incorporated into undergraduate medical curricula. Using systematic curriculum mapping at a rural LCME-accredited medical school, the research quantifies the hours dedicated to these areas-approximately 202 hours for disability-related topics and 177 hours for ESL-distributed across all four years. The curriculum emphasizes foundational knowledge in social determinants of health, cultural humility, communication strategies, and health disparities, with increasing clinical application throughout training. Early stages focus on core concepts, such as understanding disability definitions and culturally sensitive communication, which are reinforced during clinical rotations involving rural health, pediatrics, and internal medicine. The curriculum aims to develop skills gradually, culminating in leadership and advocacy roles by the final year. The analysis highlights the importance of longitudinal reinforcement and integration to ensure sustained competency development and effective application in clinical settings. Despite the comprehensive overview, the study's limitations include its focus on a single institution and reliance on quantitative data, without assessing actual student competency or exploring extracurricular learning experiences. The findings underscore that a developmental, interconnected approach-combining knowledge, skills, and application-is essential to prepare physicians to deliver equitable, culturally competent care to diverse populations. Such curriculum design can help address health disparities, improve patient outcomes, and promote health equity. The study advocates for ongoing curriculum refinement that emphasizes continuous reinforcement and integration of disability and ESL-related competencies throughout medical training, ensuring future clinicians are equipped to meet the needs of increasingly diverse patient populations.",
+      "authors": [
+        "Lesley Cottrell",
+        "Scott Cottrell",
+        "Isabela Negrin",
+        "Anna Schuster",
+        "Megann Boone",
+        "Norman Ferrari"
+      ],
+      "publication_date": "2026-12-31",
+      "journal": "Medical education online",
+      "doi": "10.1080/10872981.2026.2627020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41672092/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 1.2,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.59
+      },
+      "matched_domains": [
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health equity",
+        "social determinants of health"
+      ]
+    },
+    {
+      "id": "PMID:41802317",
+      "pmid": "41802317",
+      "title": "Population health management within the primary care context - scoping review.",
+      "abstract": "Population health management (PHM) is increasingly promoted as a strategy to improve health outcomes, enhance healthcare quality, reduce costs, and, more recently, support clinician well-being and advance health equity - the Quintuple Aim. However, how PHM is conceptualised within the primary care context remains unclear. This scoping review explores how PHM is conceptualised within this context. Five databases (PubMed, Embase, CINAHL, Web of Science and Scopus) were searched to find publications that conceptually addressed PHM and its interaction with the primary care context. Data extraction focused on definitions and related terms, the bidirectional influence between PHM and general practice, and interpretations of the components 'population' and 'management'. 27 publications were included. Definitions of PHM varied, with few explicitly addressing the primary care practice level. They highlighted the need to proactively address social determinants of health beyond clinical outcomes. Both top-down and bottom-up dynamics make general practices accountable for and increasingly involved in the identification of populations, risk stratification and impact assessment, with both clinical judgement and real-world primary care data. Management involves team-based and technology-supported care. Considering PHM within primary care highlighted the importance of general practice's accountability, its consideration of social determinants of health beyond clinical outcomes and its community alignment to enhance equity. What the potential added value of general practitioner's clinical intuition and real-world primary care data in assessing impact warrants additional exploration.",
+      "authors": [
+        "Emmily Schaubroeck",
+        "Giorgio Sessa",
+        "Jan De Maeseneer",
+        "Sara Willems",
+        "Peter Decat"
+      ],
+      "publication_date": "2026-12-01",
+      "journal": "The European journal of general practice",
+      "doi": "10.1080/13814788.2026.2633852",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41802317/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 1.2,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.59
+      },
+      "matched_domains": [
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health equity",
+        "social determinants of health"
+      ]
+    },
+    {
+      "id": "PMID:41550028",
+      "pmid": "41550028",
+      "title": "Mental health burdens, typhoon and structural health inequities: evidence from a global perspective.",
+      "abstract": "Against the backdrop of accelerating climate change and more frequent extreme weather events, typhoon disasters have become a major challenge to mental health. Based on the Social Determinants of Health theory and integrating the Cumulative Disadvantage Model with Structural Causal Influence analysis, this study evaluates how typhoon exposure affects the burden of mental health disorders and how these effects vary with social structural differences. To investigate the mechanisms linking typhoon exposure to the burden of mental health disorders, and to quantify the moderating roles of macro-level social structural variables. By constructing both main effect and year-on-year difference models, combined with structural equation modelling and multinational panel data, this research quantifies the moderating roles of macro-level social variables, including gross national income, Human Development Index, Gini coefficient, government health expenditure, out-of-pocket health spending, educational attainment, and life expectancy. Typhoons were found to increase prevalence, incidence, and disability-adjusted life years (DALYs) related to mental disorders, with the strongest impact in the 25-34 age group. High income, education, HDI, and public health investment were linked to greater resilience, while low income, high OOP, and high inequality indicated vulnerability. Secondary disaster frequency and the number of people affected acted as mediators, forming a pathway from 'typhoon' to 'social stress' to 'mental disorders.' Typhoon impacts on mental health are shaped by both direct exposure and structural inequalities. Improving socioeconomic conditions, lowering OOP costs, reducing inequality, and increasing public health investment can strengthen psychological resilience and disaster response capacity.",
+      "authors": [
+        "Ruoxi Yang",
+        "Yu Huang"
+      ],
+      "publication_date": "2026-12-01",
+      "journal": "Global health action",
+      "doi": "10.1080/16549716.2025.2599623",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41550028/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 1.2,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.59
+      },
+      "matched_domains": [
+        "卫生经济学",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "social determinants of health",
+        "health expenditure"
+      ]
+    }
+  ]
+}

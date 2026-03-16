@@ -1,5 +1,5 @@
 ---
-date: 2026-03-09
+date: 2026-03-16
 type: knowledge-graph
 ---
 
@@ -26,6 +26,8 @@ type: knowledge-graph
 - [[QALY]]
 - [[DALY]]
 - [[cost-benefit]]
+- [[incremental net monetary benefit]]
+- [[out-of-pocket payment]]
 
 ### 卫生政策
 - [[health policy]]
@@ -36,6 +38,9 @@ type: knowledge-graph
 - [[health insurance]]
 - [[health reform]]
 - [[policy implementation]]
+- [[primary health care]]
+- [[policy advocacy]]
+- [[noncommunicable disease]]
 
 ### 社会保障
 - [[social security]]
@@ -50,6 +55,9 @@ type: knowledge-graph
 - [[social determinants of health]]
 - [[vulnerable populations]]
 - [[health disparity]]
+- [[health gap]]
+- [[health justice]]
+- [[structural health inequity]]
 
 ### 健康不平等
 - [[health inequality]]
@@ -71,6 +79,11 @@ type: knowledge-graph
 - [[regulation]]
 
 ## 论文-领域关系
+
+### 2026-03-16 推荐论文
+- [[Primary health care policy advocacy in Europe]] → [[卫生政策]]
+- [[Cost-effectiveness of primary community health care nurses]] → [[卫生政策]], [[健康公平]]
+- [[Smart insurance analytics in Sierra Leone]] → [[卫生政策]], [[卫生经济学]]
 
 ### 2026-03-09 推荐论文
 - [[RSV vaccine cost-effectiveness in COPD patients Italy]] → [[卫生政策]], [[卫生经济学]]
@@ -98,9 +111,10 @@ type: knowledge-graph
 - [[卫生经济学]] ↔ [[卫生政策]]（高度关联，10+篇论文共现）
 - [[社会保障]] ↔ [[卫生政策]]（4篇论文共现）
 - [[社会保障]] ↔ [[健康公平]]（2篇论文共现）
-- [[卫生政策]] ↔ [[健康公平]]（5篇论文共现）
+- [[卫生政策]] ↔ [[健康公平]]（7篇论文共现）
 - [[社会保障]] ↔ [[卫生经济学]]（2篇论文共现）
 - [[健康公平]] ↔ [[健康不平等]]（3篇论文共现）
 - [[公共经济学]] ↔ [[健康不平等]]（2篇论文共现）
 - [[卫生经济学]] ↔ [[健康不平等]]（3篇论文共现）
 - [[卫生政策]] ↔ [[公共管理]]（2篇论文共现）
+- [[卫生经济学]] ↔ [[健康公平]]（4篇论文共现）
