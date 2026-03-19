@@ -1,6 +1,10 @@
 # 研究兴趣配置文件
 # 用于 start-my-day 论文推荐工作流
 
+# API Keys 配置
+api_keys:
+  core: "Bm5xpTd1YfzaP2Et0iNXKhMJ4LHCDZ8c"
+
 # 研究领域配置（脚本使用 research_domains 字典格式）
 research_domains:
   社会保障:

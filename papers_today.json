@@ -1,0 +1,444 @@
+{
+  "search_date": "2026-03-19T11:04:16.261616",
+  "date_range": {
+    "start": "2026-02-17T11:04:04.529596",
+    "end": "2026-03-19T11:04:04.529596"
+  },
+  "total_found": 50,
+  "total_filtered": 10,
+  "sources": [
+    "openalex",
+    "core",
+    "pubmed",
+    "s2"
+  ],
+  "top_papers": [
+    {
+      "id": "41839529",
+      "title": "From face-to-face to e-learning: transitioning to new training models to strengthen the health system by supporting primary healthcare workers in low- and middle-income countries.",
+      "abstract": "Reliance on purely face-to-face in-service training for primary healthcare workers in low- and middle-income countries is increasingly unsustainable. The COVID-19 pandemic accelerated the transition of the University of Cape Town Knowledge Translation Unit's Practical Approach to Care Kit programme from a facility-based cascade model to online and blended learning formats.This paper analyses the implementation of this transition across 29 courses between 2020 and 2023 in South Africa. Using the Health System Process Goals framework, we reflect on the challenges and enablers of e-learning, shifting the focus from digital training as a standalone technical solution to a systemic enabler of health system strengthening.While e-learning expanded access and standardised content, successful implementation relied on addressing systemic barriers. Key learnings include the necessity of subsidised ('reverse-billed') data to ensure equitable access; the superiority of a 'blended' pedagogical model that combines digital content with peer interaction and in-person technical support and the value of automated reporting for workforce management. The systemic barriers included the lack of protected time for learners, which risks placing an inequitable burden on the workforce and reliance on donor funding, challenging long-term institutionalisation.For e-learning to effectively strengthen the health system, it must be integrated into administrative workflows and budget lines. We provide actionable recommendations for Ministries of Health, funders and implementers, advocating for a transition to government-owned platforms, accredited blended learning models and policy that mandates protected time for capacity development.",
+      "authors": [
+        "Christy-Joy Ras",
+        "Daniella Georgeu-Pepper",
+        "Robyn Curran",
+        "Ruth Vania Cornick",
+        "Candice Daniels",
+        "Cassandra Bassett",
+        "André Janse van Rensburg",
+        "Elrien Joubert",
+        "Makhosazana Lungile Simelane",
+        "Lauren Faye Anderson",
+        "Pearl Wendy Spiller",
+        "Faye Eshraghi",
+        "Inge Petersen",
+        "Lara R Fairall"
+      ],
+      "date": "2026",
+      "year": 2026,
+      "journal": "BMJ global health",
+      "doi": "",
+      "pmid": "41839529",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41839529/"
+      ],
+      "citation_count": 0,
+      "source": "PubMed",
+      "is_open_access": false,
+      "open_access_url": "",
+      "concepts": [],
+      "keywords": [],
+      "scores": {
+        "relevance": 1.1,
+        "recency": 2.5,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.37
+      },
+      "matched_domains": [
+        "卫生政策",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health system",
+        "equitable access"
+      ]
+    },
+    {
+      "id": "41849671",
+      "title": "Telehealth Use and Modality Choice Among US Adults: Shorrocks-Shapley Decomposition of a 2022 Cross-Sectional National Survey.",
+      "abstract": "Telehealth use surged during the COVID-19 pandemic and has stabilized at levels substantially above prepandemic baselines. However, concerns persist that the digital divide may reproduce or widen disparities in access. Understanding the determinants of telehealth use-and particularly modality choice between video and audio-is essential for designing policies that promote equitable access in the post-public health emergency era. This study aims to identify determinants of telehealth use and modality among US adults in 2022 and quantify the relative contributions of digital, geographic, clinical, and socioeconomic domains. We conducted a cross-sectional secondary analysis of the sixth cycle of the Health Information National Trends Survey, administered in 2022 by the National Cancer Institute, a nationally representative, 2-stage stratified random probability survey of civilian, noninstitutionalized US adults aged 18 years or older. Sampled households were recruited via mailed invitations, and 1 adult per household was randomly selected using the next birthday method and invited to complete a self-administered questionnaire between February 2022 and November 2022 (N=6252). The primary analytic sample included respondents with nonmissing telehealth modality responses (n=6046, 59.4% female; mean age of 55.1 y). Individual-level data were linked to county-level American Community Survey socioeconomic indicators and broadband availability measures. The primary outcome was telehealth use, categorized as video (n=1641, 27.2%; 95% CI 25.5%-29.1%), audio-only (n=876, 12.1%; 95% CI 10.9%-13.4%), or none (n=3529, 60.7%; 95% CI 58.6%-62.7%). We estimated 4 binary contrasts using survey-weighted linear probability models with jackknife variance estimation, reporting absolute risk differences in percentage points (pp) with 95% CIs. We applied Shorrocks-Shapley decomposition to quantify each predictor domain's contribution to explained variance. Nationally, 39.3% (n=2517; 95% CI 37.3%-41.4%) reported any telehealth use in the past 12 months. In survey-weighted linear probability models (α=.05), significant predictors of any telehealth vs none included: male sex (-9.7 pp, 95% CI -14.0 to -5.4), disability status (+22.5 pp, 95% CI 16.1-28.8), and health app use (+18.4 pp, 95% CI 12.0-24.8). For video vs audio-only telehealth, insurance coverage increased video use (+21.2 pp, 95% CI 13.0-29.3), while basic cell phone only (vs smartphone) decreased video use (-20.1 pp, 95% CI -33.5 to -6.8). Shorrocks-Shapley decomposition revealed that digital access and eHealth behaviors explained 40.4% of variance in video vs audio choice and 33.4% of video vs none; geography explained 40.5% of audio vs none; digital factors (25.7%), geography (19.7%), and health status and needs (15.5%) all contributed substantially to any vs none. Digital access and eHealth behaviors collectively explain more variance in modality choice than traditional sociodemographic factors. Telehealth uptake reflects a combination of digital factors, geography, and clinical need, whereas video modality specifically hinges on digital readiness. Interventions pairing sustained insurance coverage with targeted investments in device access, affordable high-speed connectivity, and digital literacy training are most likely to narrow persistent telehealth gaps.",
+      "authors": [
+        "Corneliu Bolbocean",
+        "Corey Hayes",
+        "Cari Bogulski"
+      ],
+      "date": "2026",
+      "year": 2026,
+      "journal": "Journal of medical Internet research",
+      "doi": "",
+      "pmid": "41849671",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41849671/"
+      ],
+      "citation_count": 0,
+      "source": "PubMed",
+      "is_open_access": false,
+      "open_access_url": "",
+      "concepts": [],
+      "keywords": [],
+      "scores": {
+        "relevance": 0.9,
+        "recency": 2.5,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.28
+      },
+      "matched_domains": [
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health gap",
+        "equitable access"
+      ]
+    },
+    {
+      "id": "41703744",
+      "title": "Video, mail, and medical assistance request telemedicine consultations at Steno Diabetes Center Greenland.",
+      "abstract": "Greenland's geography and dispersed settlements impede equitable access to care. To address this, Steno Diabetes Center Greenland (SDCG) implemented a telemedicine programme (2021-2024) comprising client-to-provider video (VC), client-to-provider mail, and provider-to-provider Medical Assistance Requests (MAR). The aim of this study was to describe utilization of the newly implemented telemedicine modalities at SDCG from 2021 to 2024. The study was conducted as a cross-sectional, register-based study using electronic medical record data extracted January 15, 2025. All SDCG contacts from January 1, 2021, to December 31, 2024, were included. Consultations were classified as face-to-face, administrative, telephone, mail, or video. Total telemedicine comprised all non-face-to-face modalities. In total, 43,190 consultations were registered. Overall activity increased by 56% from 2021 to 2024. In 2024, telemedicine constituted 70% of all consultations. The newly implemented modalities accounted for 40% of all consultations in 2024. VC rose by >2,000% during the period to around 7% in 2024; mail increased from zero to 14% in 2024. Administrative consultations grew by 57%, driven by an increase in MAR. In conclusion, the newly implemented telemedicine modalities were rapidly and sustainably integrated into SDCG, enhancing access and continuity. The swift toward video, mail, and MAR supports further scale-up across the Greenlandic Health System. Client and providers experiences as a well as effect on clinical quality in Greenland needs to be addressed in future research.",
+      "authors": [
+        "Liv Ammitzbøll Rasmussen",
+        "Michael Lynge Pedersen"
+      ],
+      "date": "2026",
+      "year": 2026,
+      "journal": "International journal of circumpolar health",
+      "doi": "",
+      "pmid": "41703744",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41703744/"
+      ],
+      "citation_count": 0,
+      "source": "PubMed",
+      "is_open_access": false,
+      "open_access_url": "",
+      "concepts": [],
+      "keywords": [],
+      "scores": {
+        "relevance": 0.6,
+        "recency": 2.5,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.15
+      },
+      "matched_domains": [
+        "卫生政策",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health system",
+        "equitable access"
+      ]
+    },
+    {
+      "id": "41809388",
+      "title": "Nationwide decline in psychiatric hospitalizations and costs in Brazil, 2008-2022: a retrospective descriptive study evidencing reform-driven community mental health gains.",
+      "abstract": "Neuropsychiatric disorders are among the leading causes of disability worldwide, generating substantial healthcare utilization and costs. Brazil, which hosts the world's largest universal public health system, implemented psychiatric reform to reduce dependence on long-term hospitalization and expand community-based services. The study aimed to assess hospitalization trends in Brazil between 2008 and 2022. We conducted a nationwide, retrospective analysis of administrative data from Brazil's Hospital Information System (SIH/SUS) covering all psychiatric admissions (ICD-10, Chapter V) from 2008 to 2022. Outcomes included admission rates, length of stay, diagnostic distribution, demographic and regional disparities, and total hospitalization costs, adjusted for inflation. Data were standardized using WHO population projections and Markov chain Monte Carlo. Psychiatric hospitalizations declined by more than 50%, from 314,686 admissions (315 per 100,000 people) in 2008 to 151,113 (151 per 100,000) in 2022. The mean length of stay fell from 45.1 to 22.1 days. Schizophrenia spectrum disorders remained the leading cause of admission but decreased substantially (from 151 to 53 per 100,000 people), while mood disorders increased particularly among female adolescents (from 12 to 16 per 100,000 people). Males were hospitalized 70% more compared to females (males: 174; females: 102 per 100,000 people in 2021), mainly for substance- (males: 37; females: 10 per 100,000 people in 2021) and alcohol-related disorders (males: 32; females: 4 per 100,000 people in 2021). Marked regional variation persisted, with slower declines in the North. Total hospitalization costs fell by over 75% between 2010 (R$1,123,798,345) and 2022 (R$290,769,856), reflecting a sustained shift from hospital-based to community-based care. Brazil's sustained reduction in psychiatric hospitalizations and costs demonstrates the long-term success of psychiatric reform and the expansion of community-based mental health care. However, regional and demographic inequities underscore the need for targeted investments to ensure equitable access and expand reform achievements amid policy fluctuations. CNPq, INCT, CAPES, FAPEMIG.",
+      "authors": [
+        "Bruna Lopes Resende",
+        "João Sérgio da Fonseca Guimarães",
+        "Ana Luiza Amâncio Caetano",
+        "Ana Luiza Matos De Oliveira",
+        "Bruno Rezende Souza",
+        "André Gustavo Oliveira"
+      ],
+      "date": "2026",
+      "year": 2026,
+      "journal": "Lancet regional health. Americas",
+      "doi": "",
+      "pmid": "41809388",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41809388/"
+      ],
+      "citation_count": 0,
+      "source": "PubMed",
+      "is_open_access": false,
+      "open_access_url": "",
+      "concepts": [],
+      "keywords": [],
+      "scores": {
+        "relevance": 0.6,
+        "recency": 2.5,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.15
+      },
+      "matched_domains": [
+        "卫生政策",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health system",
+        "equitable access"
+      ]
+    },
+    {
+      "id": "41805661",
+      "title": "Use of Telemental Health Care by Adults in the United States.",
+      "abstract": "Although the recent proliferation of telemental health care has transformed delivery of outpatient mental health care for many patients, little is known about population-level access to telehealth, hybrid, and in-person outpatient mental health care in the US. The objective of this report is to characterize patterns of all telehealth, hybrid, and all in-person outpatient mental health care by US adults. An analysis is presented of 2021-2022 Medical Expenditure Panel Survey data (n=39,561) focusing on annual percentages of adults receiving all telehealth, hybrid, and all in-person outpatient mental health care. Results are presented overall and stratified by sociodemographic characteristics. Differences are reported in average marginal estimates from logistic regressions for each sociodemographic characteristic controlling for age group, sex, and psychological distress (Kessler-6). Approximately 12.0% of adults annually received outpatient mental health care, including 3.3% all telemental health care, 2.6% hybrid, and 6.1% all in-person mental health care. After controlling for age, sex, and distress, unemployed adults 65 years of age or younger were less likely than employed adults to receive all mental health care (-1.0 percentage points, 95% CI: -1.6 to -0.4), and uninsured individuals were less likely than those with private insurance (-2.8 percentage points, 95% CI: -3.6 to -1.9). By contrast, college graduates were 3.2 percentage points (95% CI: 2.3-4.0) more likely than those with less than a high school diploma, higher-income individuals were 1.6 percentage points (95% CI: 0.8-2.30) more likely than those below the poverty level, and urban residents were 1.9 percentage points (95% CI: 1.1-2.7) more likely than rural residents to receive all telemental health care. These national patterns highlight differences in US telemental health care access across employment, education, income, insurance, and geographic groups.",
+      "authors": [
+        "Mark Olfson",
+        "Chandler McClellan",
+        "Samuel H Zuvekas",
+        "Carlos Blanco"
+      ],
+      "date": "2026",
+      "year": 2026,
+      "journal": "Medical care",
+      "doi": "",
+      "pmid": "41805661",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41805661/"
+      ],
+      "citation_count": 0,
+      "source": "PubMed",
+      "is_open_access": false,
+      "open_access_url": "",
+      "concepts": [],
+      "keywords": [],
+      "scores": {
+        "relevance": 0.6,
+        "recency": 2.5,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.15
+      },
+      "matched_domains": [
+        "卫生政策",
+        "卫生经济学"
+      ],
+      "matched_keywords": [
+        "medical expenditure",
+        "health care access"
+      ]
+    },
+    {
+      "id": "41839421",
+      "title": "Emerging mycoses: a neglected area of concern for global health.",
+      "abstract": "One of the most neglected, yet rapidly developing, areas of concern in global health is the changing epidemiology of fungal infections. The purpose of this narrative review is to draw attention to the pressing need for both a better understanding of the ecological, environmental, and host-related mechanisms underlying these emerging phenomena as well as a greater awareness of the growing clinical and public health significance of fungal diseases. It also highlights the significance of equitable access to fungal diagnostics and antifungal treatments, as well as coordinated surveillance across the One Health framework's environmental, animal, and human interfaces. This review is based on a narrative synthesis of recent literature on emerging mycoses, including epidemiological studies, clinical reports, and global health analyses addressing environmental drivers, pathogen evolution, and health system preparedness. Although many of the causative agents are well-known environmental pathogens; climate change, deforestation, increased human mobility, growing immunosuppressed populations, and ill-equipped healthcare infrastructures are all contributing to fungi emerging as serious public health risks. Blastomyces helicus (formerly Blastomyces dermatitidis), Candidozyma auris (formerly Candida auris), Emergomyces spp., and Sporothrix brasiliensis are a few examples of mycoses with changing epidemiological patterns. Fungal diseases continue to be neglected in international health policies and inadequately incorporated into frameworks for pandemic preparedness, despite their increasing clinical and ecological significance. The world community runs the risk of entering the next era of infectious threats unprepared for the expanding fungal frontier if concurrent investments are not made in clinical training, infection prevention and control, and health system readiness.",
+      "authors": [
+        "Aleksandra Barac",
+        "Oliver A Cornely",
+        "José Ramón Paño-Pardo",
+        "Nitin Gupta",
+        "Pikka Jokelainen",
+        "Marta Mora-Rillo",
+        "Sotirios Tsiodras",
+        "Effrossyni Gkrania-Klotsas",
+        "Cassandra Bulescu",
+        "Galadriel Pellejero-Sagastizabal",
+        "Jon Salmanton-García",
+        "Jan Felix Drexler",
+        "F-Xavier Lescure",
+        "Martin P Grobusch"
+      ],
+      "date": "2026",
+      "year": 2026,
+      "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+      "doi": "",
+      "pmid": "41839421",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41839421/"
+      ],
+      "citation_count": 0,
+      "source": "PubMed",
+      "is_open_access": false,
+      "open_access_url": "",
+      "concepts": [],
+      "keywords": [],
+      "scores": {
+        "relevance": 0.6,
+        "recency": 2.5,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.15
+      },
+      "matched_domains": [
+        "卫生政策",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health system",
+        "equitable access"
+      ]
+    },
+    {
+      "id": "41831343",
+      "title": "Development of palliative care in countries participating in the iLIVE project. Spain and Argentina case studies.",
+      "abstract": "To assess the level of development of palliative care in 13 countries participating in the iLIVE project, based on the World Health Organization's Conceptual Framework. The study includes an in-depth analysis of two comparative case studies: Spain and Argentina. A descriptive, cross-sectional, mixed-methods study was conducted using six dimensions and 14 macro-indicators. Key informants in each country provided data from official sources or expert knowledge. A comparative analysis was performed across countries, and a comparative case study approach was applied to Spain and Argentina, including health system profiles and indicator classification. Consensus on final data was reached through discussion groups. Eleven of thirteen countries provided complete or partial data. Most countries reached an advanced level of development, especially regarding the availability of essential medicines. Spain demonstrated higher integration and national policy development, while Argentina showed progress despite structural challenges. Twelve indicators lacked sufficient official data. Although considerable progress has been made, disparities persist in key areas such as education, coordination, and equitable access. The World Health Organization framework proved useful for identifying development gaps and supporting evidence-based policymaking. Regular assessments are necessary to adapt strategies and ensure sustainable palliative care integration.",
+      "authors": [
+        "Eva Víbora-Martín",
+        "Vilma A Tripodoro",
+        "Pilar Barnestein-Fonseca",
+        "Claudia Fischer",
+        "Inmaculada Ruiz-Torreras",
+        "María Luisa Martín-Roselló",
+        "José Miguel Morales-Asencio"
+      ],
+      "date": "2026",
+      "year": 2026,
+      "journal": "Gaceta sanitaria",
+      "doi": "",
+      "pmid": "41831343",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41831343/"
+      ],
+      "citation_count": 0,
+      "source": "PubMed",
+      "is_open_access": false,
+      "open_access_url": "",
+      "concepts": [],
+      "keywords": [],
+      "scores": {
+        "relevance": 0.6,
+        "recency": 2.5,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.15
+      },
+      "matched_domains": [
+        "卫生政策",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health system",
+        "equitable access"
+      ]
+    },
+    {
+      "id": "41824239",
+      "title": "Cost Effectiveness of First-Line Therapies for Treatment-Naïve Chronic Lymphocytic Leukaemia in South Africa.",
+      "abstract": "Chronic lymphocytic leukaemia (CLL) is a common adult leukaemia, and selecting the most effective first-line treatment is crucial for optimising patient outcomes and managing healthcare costs. While chemoimmunotherapy (CIT) has been the standard approach, targeted therapies offer promising alternatives for treatment-naïve CLL patients. The objective of this study was to evaluate the cost effectiveness of chemoimmunotherapy compared to targeted therapies for treatment-naïve CLL patients in South Africa. A cost-effectiveness analysis was conducted using a Markov model based on three health states: progression-free survival (PFS), progression, and death. The model employed a 15-year time horizon and a 1-month cycle length. Patient-level data were reconstructed, and parametric estimation was used to project long-term clinical outcomes. Cost estimates were derived from national tariffs, reflecting a South African public healthcare perspective, while utilities were sourced from published literature. Outcomes were measured in total costs and quality-adjusted life years (QALYs). Incremental cost-effectiveness ratios (ICERs) were calculated and compared to a willingness-to-pay (WTP) threshold, and sensitivity analyses were conducted to test the robustness of the results. Among the evaluated treatment strategies, chlorambucil-plus-obinutuzumab (ClbO) had the lowest cost and served as the reference comparator. Both CIT regimens were cost effective, with fludarabine, cyclophosphamide, and rituximab (FCR) yielding an ICER of US$1645.52 per QALY gained and bendamustine-plus-rituximab (BR) had an ICER of US$1716.79 per QALY gained, both below the US$3407 WTP threshold, under the model assumptions. Ibrutinib generated the highest QALYs but at a higher cost, resulting in an ICER of US$19,679.52 per QALY gained and a 0% probability of being cost effective at the WTP threshold, while venetoclax-plus-obinutuzumab (VenO) was extendedly dominated, and therefore eliminated from the results. Sensitivity analyses confirmed the robustness of the findings across variations in key parameters. In the South African public healthcare setting, CIT regimens (FCR and BR) represent cost-effective first-line treatment strategies for symptomatic, treatment-naïve CLL. Bendamustine-plus-rituximab emerged as the most decision-robust option under uncertainty, while FCR yielded the lowest point-estimate ICER. Among CIT regimens, FCR may be preferred in fit patients, while BR represents a more decision-robust option in older or unfit populations. Targeted therapies such as ibrutinib and VenO, despite superior clinical efficacy, are not cost effective at current prices. Substantial price reductions, generic entry, or targeted use in high-risk subgroups may improve their value and enable equitable access within South Africa's resource-constrained health system.",
+      "authors": [
+        "Rochelle Woudberg",
+        "Edina Sinanovic"
+      ],
+      "date": "2026",
+      "year": 2026,
+      "journal": "Clinical drug investigation",
+      "doi": "",
+      "pmid": "41824239",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41824239/"
+      ],
+      "citation_count": 0,
+      "source": "PubMed",
+      "is_open_access": false,
+      "open_access_url": "",
+      "concepts": [],
+      "keywords": [],
+      "scores": {
+        "relevance": 0.6,
+        "recency": 2.5,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.15
+      },
+      "matched_domains": [
+        "卫生政策",
+        "卫生经济学",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "cost-effectiveness analysis",
+        "health system",
+        "equitable access"
+      ]
+    },
+    {
+      "id": "41821079",
+      "title": "Lessons from COVID-19: Perspectives of senior managers and decision-makers in substance use services in Wales.",
+      "abstract": "The COVID-19 pandemic significantly disrupted substance use services, potentially exacerbating existing inequities in access to treatment. This study examines the perspectives of senior managers and decision-makers in Wales regarding equity issues in substance use services during the pandemic. Semi-structured interviews were conducted with fifteen senior managers and decision-makers from various organisations in the substance use field in Wales. Interviews were conducted during autumn 2020. Data were analysed using reflexive thematic analysis to identify key themes related to equity in access to treatment. Key findings highlighted significant disparities between third sector and statutory NHS services, particularly in access to PPE, and recognition as essential workers. The rapid shift to digital service provision exposed a digital divide, potentially excluding vulnerable service users. However, the pandemic also accelerated innovations in service delivery, such as the introduction of long-acting injectable buprenorphine and revised take-home medication policies. Long-term concerns included the economic impact on vulnerable populations, potential increases in mental health issues and substance use, and funding uncertainties for third sector services. The pandemic exposed and exacerbated existing inequities in substance use services while also driving rapid innovation. Findings suggest a need for greater recognition and support for third sector services, strategies to address the digital divide, and sustained funding to ensure equitable access to treatment. These insights can inform policy and practice to develop more equitable and resilient substance use services in preparation for any future crises.",
+      "authors": [
+        "Shannon Murray",
+        "Katy Holloway",
+        "Marian Buhociu",
+        "Martin Blakebrough",
+        "Caroline Phipps"
+      ],
+      "date": "2026",
+      "year": 2026,
+      "journal": "Substance abuse treatment, prevention, and policy",
+      "doi": "",
+      "pmid": "41821079",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41821079/"
+      ],
+      "citation_count": 0,
+      "source": "PubMed",
+      "is_open_access": false,
+      "open_access_url": "",
+      "concepts": [],
+      "keywords": [],
+      "scores": {
+        "relevance": 0.6,
+        "recency": 2.5,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.15
+      },
+      "matched_domains": [
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "vulnerable populations",
+        "equitable access"
+      ]
+    },
+    {
+      "id": "41763564",
+      "title": "Epidemiological trends and cross-country inequalities in the global burden of Alzheimer's disease and other dementias in postmenopausal women from 1990 to 2021.",
+      "abstract": "To evaluate the trends, cross-country inequalities, and risk factors associated with Alzheimer's disease and other dementias (ADOD) in postmenopausal women globally, and project the disease burden to 2050. The age-standardized rates (ASRs) and 95% uncertainty intervals (UIs) of prevalence, incidence, mortality, and disability-adjusted life-years (DALYs) for ADOD among postmenopausal women were estimated by using the Global Burden of Disease, Injuries, and Risk Factors Study (GBD) 2021 data. The average annual percentage change (AAPC) was calculated using joinpoint regression. A decomposition analysis was performed to quantify the contributions of population growth, aging, and epidemiologic changes. The slope index of inequality (SII) and concentration index, as recommended by the World Health Organization, were used to evaluate the cross-country inequalities in ADOD burden. The ADOD burden among postmenopausal women to 2050 was projected using the Bayesian age-period-cohort analysis (BAPC) model. Risk factor attribution was quantified according to GBD methodology. In 2021, the estimated global ASRs of prevalence, incidence, mortality, and DALYs of ADOD among postmenopausal women were 4414.52 (95%UIs: 3492.78, 5504.77), 751.18 (95%UIs: 517.67, 1019.3), 164.29 (95%UIs: 41.79, 425.37), and 2935.7 (95%UIs: 1349.85, 6306.48) per 100,000 population, respectively. East Asia recorded the highest total number of cases and the highest ASRs of prevalence and incidence, while Central Sub-Saharan Africa showed the highest ASRs of mortality and DALYs. From 1990-2021, the ADOD burden increased most rapidly during 2019-2021. Population growth (82.07% contribution) and aging (12.48%) were the primary drivers of increases in global DALYs. SDI-related inequalities escalated over time, with the SII increasing from 1275.06 [95% confidence interval (CI): 1037.55, 1512.57] in 1990 to 1697.71 (95%CI: 1430.70, 1964.73) in 2021. The BAPC model showed that both the ASRs and case number of prevalence, incidence, mortality, and DALYs were predicted to increase from 2022 to 2050, with predicted ASRs of 6067.51 [95% credible interval (CrI): 2149.42, 9985.60], 1052.37 (95%CrI: 361.2, 1743.54), 186.15 (95%CrI: 90.01, 282.3), and 3602.34 (95%CrI: 1530.01, 5674.67) per 100,000 population in 2050. High fasting plasma glucose was identified as the leading risk factor contributing to ADOD burden. From 1990 to 2021, there was an overall upward trend in the global burden of ADOD among postmenopausal women. Driven by demographic shifts (population growth and aging) and metabolic risks (particularly high fasting plasma glucose), the burden of postmenopausal women with ADOD is expected to increase substantially. Postmenopausal women in higher SDI countries bore a disproportionately higher ADOD burden, and the SDI-related inequalities among countries widened during the study period. These findings highlight major challenges in the prevention, control, and management of ADOD in postmenopausal women. Health authorities should shift from reactive treatments to proactive prevention, emphasizing the establishment of targeted health policies, glucose control, and optimizing medical resource allocation to meet the heterogeneous needs of this vulnerable population.",
+      "authors": [
+        "Junmiao Ge",
+        "Junli Ge",
+        "Mingdong Bao",
+        "Lei Zhang",
+        "Ke Li",
+        "Ang Ji",
+        "Xinggang Mao",
+        "Xiaofan Jiang",
+        "Kangyi Yue",
+        "Jidong Sun",
+        "Peng Luo"
+      ],
+      "date": "2026",
+      "year": 2026,
+      "journal": "Ageing research reviews",
+      "doi": "",
+      "pmid": "41763564",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41763564/"
+      ],
+      "citation_count": 0,
+      "source": "PubMed",
+      "is_open_access": false,
+      "open_access_url": "",
+      "concepts": [],
+      "keywords": [],
+      "scores": {
+        "relevance": 0.54,
+        "recency": 2.5,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.12
+      },
+      "matched_domains": [
+        "健康不平等"
+      ],
+      "matched_keywords": [
+        "decomposition analysis",
+        "concentration index"
+      ]
+    }
+  ]
+}
