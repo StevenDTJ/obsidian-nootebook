@@ -1,0 +1,713 @@
+{
+  "search_date": "2026-03-19T11:29:22.905650",
+  "date_range": {
+    "start": "2026-02-17T11:27:41.470554",
+    "end": "2026-03-19T11:27:41.470554"
+  },
+  "total_found": 50,
+  "total_filtered": 10,
+  "sources": [
+    "openalex",
+    "pubmed"
+  ],
+  "top_papers": [
+    {
+      "id": "W7138326238",
+      "title": "Challenges in health governance and effective health policy implementation in Morocco",
+      "abstract": "",
+      "authors": [
+        "Tarik Marzak"
+      ],
+      "date": "2026-03-17",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.26719/2026.32.3.144",
+      "pmid": "",
+      "urls": [
+        "https://doi.org/10.26719/2026.32.3.144",
+        "https://doi.org/10.26719/2026.32.3.144"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://doi.org/10.26719/2026.32.3.144",
+      "concepts": [
+        "Transparency (behavior)",
+        "Corporate governance",
+        "Health policy",
+        "Business",
+        "Social determinants of health",
+        "Social policy",
+        "Social protection",
+        "Political science",
+        "Public administration",
+        "Key (lock)",
+        "Digital health",
+        "Health services research",
+        "Economic growth",
+        "Public health",
+        "Monitoring and evaluation",
+        "Good governance",
+        "Health law",
+        "Developing country",
+        "International health"
+      ],
+      "keywords": [
+        "Transparency (behavior)",
+        "Corporate governance",
+        "Health policy",
+        "Business",
+        "Social determinants of health"
+      ],
+      "scores": {
+        "relevance": 1.4,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 1.5,
+        "final": 1.53
+      },
+      "matched_domains": [
+        "卫生政策",
+        "公共管理"
+      ],
+      "matched_keywords": [
+        "health policy",
+        "health governance",
+        "policy implementation"
+      ]
+    },
+    {
+      "id": "W7129635694",
+      "title": "Replication data and code for stakeholder mapping and Net-Map health governance analysis",
+      "abstract": "",
+      "authors": [
+        "Bianca-Elena Mihăilă",
+        "Marian-Gabriel Hâncean",
+        "Marius Geantă",
+        "Cosmina Cioroboiu",
+        "Jürgen Lerner",
+        "José Luis Molina",
+        "Antonin Tron-Lozai",
+        "Bogdan-Adrian Vidrașcu",
+        "Iulian Oană"
+      ],
+      "date": "2026-02-17",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.5281/zenodo.18669573",
+      "pmid": "",
+      "urls": [
+        "https://doi.org/10.5281/zenodo.18669573",
+        "https://doi.org/10.5281/zenodo.18669573"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://doi.org/10.5281/zenodo.18669573",
+      "concepts": [
+        "Workflow",
+        "Replication (statistics)",
+        "Computer science",
+        "Code (set theory)",
+        "Corporate governance",
+        "Stakeholder",
+        "Health data",
+        "Database",
+        "Data science",
+        "Software engineering",
+        "Process management",
+        "Knowledge management",
+        "Data mining",
+        "Business",
+        "Statistical analysis",
+        "World Wide Web",
+        "Data model (GIS)",
+        "Operations research",
+        "Work (physics)",
+        "Data governance"
+      ],
+      "keywords": [
+        "Workflow",
+        "Replication (statistics)",
+        "Computer science",
+        "Code (set theory)",
+        "Corporate governance"
+      ],
+      "scores": {
+        "relevance": 0.5,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 2.0,
+        "final": 1.18
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "health governance"
+      ]
+    },
+    {
+      "id": "W7134282300",
+      "title": "Black Lung in the Era of Regulatory Advancement: An Public Health Governance Analysis",
+      "abstract": "",
+      "authors": [
+        "Naveenraja Mohanraj",
+        "Varsha Suresh"
+      ],
+      "date": "2026-03-07",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.36948/ijfmr.2026.v08i02.70720",
+      "pmid": "",
+      "urls": [
+        "https://www.ijfmr.com/papers/2026/2/70720.pdf",
+        "https://doi.org/10.36948/ijfmr.2026.v08i02.70720"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://www.ijfmr.com/papers/2026/2/70720.pdf",
+      "concepts": [
+        "Accountability",
+        "Public health",
+        "Corporate governance",
+        "Health care",
+        "Enforcement",
+        "Transparency (behavior)",
+        "Equity (law)",
+        "Environmental health",
+        "Medicine",
+        "Health policy",
+        "Socioeconomic status",
+        "Business",
+        "Health equity",
+        "Political science",
+        "Vulnerability (computing)",
+        "Disease",
+        "Public policy",
+        "Health care reform",
+        "Economic growth",
+        "Pneumoconiosis",
+        "Sustainability",
+        "Public health law",
+        "Occupational safety and health"
+      ],
+      "keywords": [
+        "Accountability",
+        "Public health",
+        "Corporate governance",
+        "Health care",
+        "Enforcement"
+      ],
+      "scores": {
+        "relevance": 0.5,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 2.0,
+        "final": 1.18
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "health governance"
+      ]
+    },
+    {
+      "id": "W7131366229",
+      "title": "Transformative Resilience in European Health Governance After COVID-19: A Policy Analysis",
+      "abstract": "",
+      "authors": [
+        "Krzysztof Goniewicz",
+        "Amir Khorram‐Manesh"
+      ],
+      "date": "2026-02-25",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.3390/healthcare14050569",
+      "pmid": "",
+      "urls": [
+        "https://www.mdpi.com/2227-9032/14/5/569/pdf?version=1772017605",
+        "https://doi.org/10.3390/healthcare14050569"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://www.mdpi.com/2227-9032/14/5/569/pdf?version=1772017605",
+      "concepts": [
+        "Transformative learning",
+        "European union",
+        "Corporate governance",
+        "Preparedness",
+        "Political science",
+        "Public administration",
+        "Public relations",
+        "Health policy",
+        "Public health",
+        "Resilience (materials science)",
+        "Legislature",
+        "Multi-level governance",
+        "Security policy",
+        "Policy analysis",
+        "Digital health",
+        "Psychological resilience",
+        "Accountability",
+        "Data governance",
+        "Global health",
+        "Civil society",
+        "Democracy",
+        "Health promotion",
+        "Sociology",
+        "Public policy",
+        "Health care",
+        "Transparency (behavior)",
+        "Data Protection Act 1998",
+        "Economic growth",
+        "Crisis management"
+      ],
+      "keywords": [
+        "Transformative learning",
+        "European union",
+        "Corporate governance",
+        "Preparedness",
+        "Political science"
+      ],
+      "scores": {
+        "relevance": 0.5,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 2.0,
+        "final": 1.18
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "health governance"
+      ]
+    },
+    {
+      "id": "W7135168876",
+      "title": "Climate and health governance: Opportunities and challenges addressing extreme heat in the United States",
+      "abstract": "",
+      "authors": [
+        "Noah L. Ring",
+        "Dorothy M. Daley",
+        "N. A. Brunsell"
+      ],
+      "date": "2026-03-01",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.1016/j.joclim.2025.100635",
+      "pmid": "",
+      "urls": [
+        "https://doi.org/10.1016/j.joclim.2025.100635",
+        "https://doi.org/10.1016/j.joclim.2025.100635"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://doi.org/10.1016/j.joclim.2025.100635",
+      "concepts": [
+        "Climate change",
+        "Environmental planning",
+        "Natural resource economics",
+        "Environmental resource management",
+        "Business",
+        "Extreme heat",
+        "Environmental science",
+        "Heat wave",
+        "Vulnerability (computing)",
+        "Government (linguistics)",
+        "Work (physics)",
+        "Public health",
+        "Population"
+      ],
+      "keywords": [
+        "Climate change",
+        "Environmental planning",
+        "Natural resource economics",
+        "Environmental resource management",
+        "Business"
+      ],
+      "scores": {
+        "relevance": 0.5,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 2.0,
+        "final": 1.18
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "health governance"
+      ]
+    },
+    {
+      "id": "W7135242886",
+      "title": "SHENA (Soil Health Network Austria) - Austria’s Integrated Pathway towards a harmonized, digital and future ‑ ready Soil Health Governance System",
+      "abstract": "",
+      "authors": [
+        "Elisabeth Thompson",
+        "Katarina Stefaner",
+        "Theresa van Hoesel",
+        "Karolina Begusch - Pfefferkorn",
+        "Andrea Spanischberger"
+      ],
+      "date": "2026-03-14",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.5194/egusphere-egu26-10411",
+      "pmid": "",
+      "urls": [
+        "https://doi.org/10.5194/egusphere-egu26-10411",
+        "https://doi.org/10.5194/egusphere-egu26-10411"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://doi.org/10.5194/egusphere-egu26-10411",
+      "concepts": [
+        "Interoperability",
+        "Corporate governance",
+        "Business",
+        "Environmental resource management",
+        "Environmental planning",
+        "Soil health",
+        "Soil map",
+        "Agriculture",
+        "Soil governance",
+        "Digital mapping",
+        "Network governance",
+        "Information system",
+        "Environmental science",
+        "Soil quality",
+        "Digital soil mapping",
+        "Soil functions",
+        "Soil survey",
+        "Stakeholder",
+        "Capacity building",
+        "Information exchange"
+      ],
+      "keywords": [
+        "Interoperability",
+        "Corporate governance",
+        "Business",
+        "Environmental resource management",
+        "Environmental planning"
+      ],
+      "scores": {
+        "relevance": 0.5,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 2.0,
+        "final": 1.18
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "health governance"
+      ]
+    },
+    {
+      "id": "W7136220651",
+      "title": "Pain, Policy and the Opioid Dilemma in Sub-Saharan Africa: A Systematic Review of Access, Regulation, and Health Governance from 1990 to 2024",
+      "abstract": "",
+      "authors": [
+        "Simon Nyarko",
+        "Roger A Atinga",
+        "Julius Caesar Mahama"
+      ],
+      "date": "2026-03-11",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.1093/heapol/czag035",
+      "pmid": "",
+      "urls": [
+        "https://doi.org/10.1093/heapol/czag035",
+        "https://doi.org/10.1093/heapol/czag035"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://doi.org/10.1093/heapol/czag035",
+      "concepts": [
+        "Grey literature",
+        "Corporate governance",
+        "Procurement",
+        "Dilemma",
+        "Public economics",
+        "Public health",
+        "Business",
+        "Enforcement",
+        "Health policy",
+        "Consumption (sociology)",
+        "Opioid use disorder",
+        "Politics",
+        "Accountability",
+        "Medicine",
+        "Systematic review",
+        "Legitimacy",
+        "Poison control",
+        "Public policy",
+        "Evidence-based policy",
+        "Economics",
+        "Workforce",
+        "Opioid",
+        "Government (linguistics)",
+        "Public administration",
+        "Law enforcement",
+        "Supply chain",
+        "Occupational safety and health",
+        "Legislation",
+        "Chronic pain",
+        "Public health surveillance",
+        "Environmental health"
+      ],
+      "keywords": [
+        "Grey literature",
+        "Corporate governance",
+        "Procurement",
+        "Dilemma",
+        "Public economics"
+      ],
+      "scores": {
+        "relevance": 0.5,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 2.0,
+        "final": 1.18
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "health governance"
+      ]
+    },
+    {
+      "id": "W7138024171",
+      "title": "From stakeholder mapping to statistical modeling: an illustrative demonstration of end-to-end Net-Map methodology for health governance analysis",
+      "abstract": "",
+      "authors": [
+        "Bianca-Elena Mihăilă",
+        "Marian-Gabriel Hâncean",
+        "Marius Geantă",
+        "Cosmina Cioroboiu",
+        "Jürgen Lerner",
+        "José Luis Molina",
+        "Antonin Tron-Lozai",
+        "Bogdan-Adrian Vidrașcu",
+        "Iulian Oană"
+      ],
+      "date": "2026-03-17",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.1186/s13690-026-01879-2",
+      "pmid": "",
+      "urls": [
+        "https://doi.org/10.1186/s13690-026-01879-2",
+        "https://doi.org/10.1186/s13690-026-01879-2"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://doi.org/10.1186/s13690-026-01879-2",
+      "concepts": [
+        "Health services research",
+        "Public health",
+        "Health informatics",
+        "Corporate governance",
+        "Stakeholder",
+        "Health policy",
+        "Business",
+        "Health administration",
+        "Health services",
+        "Population health",
+        "Computer science",
+        "Health economics",
+        "Management science",
+        "Process management",
+        "Knowledge management",
+        "Clinical governance",
+        "Statistical analysis",
+        "Stakeholder analysis",
+        "Public administration",
+        "Public relations",
+        "MEDLINE",
+        "Political science",
+        "Social policy",
+        "Health care",
+        "International health",
+        "Health data",
+        "Stakeholder engagement"
+      ],
+      "keywords": [
+        "Health services research",
+        "Public health",
+        "Health informatics",
+        "Corporate governance",
+        "Stakeholder"
+      ],
+      "scores": {
+        "relevance": 0.5,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 2.0,
+        "final": 1.18
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "health governance"
+      ]
+    },
+    {
+      "id": "W7134247404",
+      "title": "Governance Determinants of AI-Enabled Mental Health Systems in LMICs",
+      "abstract": "",
+      "authors": [
+        "Effiong Ndarake Effiong",
+        "Prof. (Dr) Daniel Mairafi Gimbason",
+        "Yakubu Boyi Ngwai"
+      ],
+      "date": "2026-03-09",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.21203/rs.3.rs-8981586/v1",
+      "pmid": "",
+      "urls": [
+        "https://www.researchsquare.com/article/rs-8981586/latest.pdf",
+        "https://doi.org/10.21203/rs.3.rs-8981586/v1"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://www.researchsquare.com/article/rs-8981586/latest.pdf",
+      "concepts": [
+        "Mental health",
+        "Corporate governance",
+        "Accountability",
+        "Compliance (psychology)",
+        "Business",
+        "Public relations",
+        "Empirical research",
+        "Psychology",
+        "Clinical governance",
+        "Information governance",
+        "Health policy",
+        "Political science",
+        "Health informatics",
+        "Public health",
+        "Data governance",
+        "Healthcare system",
+        "Data collection",
+        "Developing country",
+        "Environmental health",
+        "MEDLINE",
+        "Good governance",
+        "Empirical evidence",
+        "Global health",
+        "Digital health",
+        "Variable (mathematics)",
+        "Systematic review",
+        "mHealth",
+        "Medicine",
+        "Knowledge management",
+        "Process management",
+        "Health services research"
+      ],
+      "keywords": [
+        "Mental health",
+        "Corporate governance",
+        "Accountability",
+        "Compliance (psychology)",
+        "Business"
+      ],
+      "scores": {
+        "relevance": 0.5,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 2.0,
+        "final": 1.18
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "health system"
+      ]
+    },
+    {
+      "id": "W7130556005",
+      "title": "Governance for health system resilience: Lessons from Brazil’s decentralized health system",
+      "abstract": "",
+      "authors": [
+        "Marco Antônio Catussi Paschoalotto",
+        "Alessandro Bigoni",
+        "Andreza Carolina Davidian",
+        "Karen Sarmento Costa",
+        "Ana María Malik",
+        "Wanderson Kleber de Oliveira",
+        "Leandro Pinheiro Safatle",
+        "Adriano Massuda"
+      ],
+      "date": "2026-02-19",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.1016/j.healthpol.2026.105586",
+      "pmid": "",
+      "urls": [
+        "https://doi.org/10.1016/j.healthpol.2026.105586",
+        "https://doi.org/10.1016/j.healthpol.2026.105586"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://doi.org/10.1016/j.healthpol.2026.105586",
+      "concepts": [
+        "Accountability",
+        "Business",
+        "Corporate governance",
+        "Healthcare system",
+        "Global health",
+        "Public administration",
+        "Health policy",
+        "Public health",
+        "Environmental planning",
+        "Transparency (behavior)",
+        "Health data",
+        "Environmental resource management",
+        "Decentralization",
+        "Health law",
+        "Public relations",
+        "Health services",
+        "Political science"
+      ],
+      "keywords": [
+        "Accountability",
+        "Business",
+        "Corporate governance",
+        "Healthcare system",
+        "Global health"
+      ],
+      "scores": {
+        "relevance": 0.5,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 2.0,
+        "final": 1.18
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "health system"
+      ]
+    }
+  ]
+}
