@@ -1,0 +1,719 @@
+{
+  "search_date": "2026-03-19T11:46:43.336538",
+  "date_range": {
+    "start": "2026-02-17T11:46:28.516049",
+    "end": "2026-03-19T11:46:28.516049"
+  },
+  "total_found": 100,
+  "total_filtered": 10,
+  "sources": [
+    "openalex",
+    "pubmed"
+  ],
+  "top_papers": [
+    {
+      "id": "W7134067385",
+      "title": "Association of Social Determinants of Health and Health Equity with Adverse Childhood Experiences in Georgia, USA",
+      "abstract": "<b>Background/Objectives:</b> Adverse childhood experiences (ACEs), including physical and sexual abuse, are significantly associated with long-term health issues, particularly among socially disadvantaged populations. The study examines the social determinants of health, such as poverty, racial inequities, and limited access to care, to assess their association with adverse childhood experiences, including exposure to physical violence and sexual abuse. <b>Methods:</b> We performed multivariable logistic regression analyses using data from the 2023 Georgia Behavioral Risk Factor Surveillance System (BRFSS) (n = 8227) to examine associations between selected ACEs and key social determinants of health (SDOH). <b>Results:</b> Our results indicated that a lack of emotional and social support was associated with increased odds of witnessing parental violence (AOR = 2.00) and physical abuse (AOR = 1.90). Absence of food insecurity was associated with lower odds of witnessing parental violence (AOR = 0.65), unwanted sexual touching (AOR = 0.77), and forced sex (AOR = 0.63). Similarly, not reporting transportation barriers was associated with lower odds across ACE outcomes (AORs ranging from 0.54 to 0.65). Sexual and gender minority individuals exhibited substantially higher odds of childhood sexual abuse (AORs = 3.64-5.56). Hispanic ethnicity was associated with increased odds of physical abuse (AOR = 1.47), and older adults (ages 45-64) had greater odds of experiencing forced sex (AORs = 2.08-2.48). These findings highlight complex relationships between SDOH and early trauma. <b>Conclusions:</b> Trauma-informed public health strategies must address structural inequities and strengthen emotional and material support for vulnerable populations.",
+      "authors": [
+        "Gulzar H. Shah",
+        "Adverlyn Ivey-Waters",
+        "Tobi F. Oloyede",
+        "Shams Rahman"
+      ],
+      "date": "2026-03-06",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.3390/healthcare14050667",
+      "pmid": "",
+      "urls": [
+        "https://www.mdpi.com/2227-9032/14/5/667/pdf",
+        "https://doi.org/10.3390/healthcare14050667"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://www.mdpi.com/2227-9032/14/5/667/pdf",
+      "concepts": [
+        "Odds",
+        "Odds ratio",
+        "Health equity",
+        "Physical abuse",
+        "Disadvantaged",
+        "Sexual abuse",
+        "Social determinants of health",
+        "Poison control",
+        "Logistic regression",
+        "Ethnic group",
+        "Public health",
+        "Psychology",
+        "Psychological abuse",
+        "Suicide prevention",
+        "Injury prevention",
+        "Occupational safety and health",
+        "Medicine",
+        "Environmental health",
+        "Domestic violence",
+        "Cross-sectional study",
+        "Child abuse",
+        "Social support",
+        "Sexual minority",
+        "Demography",
+        "Association (psychology)",
+        "Gerontology",
+        "Human factors and ergonomics",
+        "Binge drinking",
+        "Behavioral Risk Factor Surveillance System",
+        "Race and health",
+        "Self-rated health",
+        "Reproductive health",
+        "Sexual violence",
+        "Adolescent health",
+        "Child sexual abuse",
+        "Socioeconomic status",
+        "Mental health"
+      ],
+      "keywords": [
+        "Odds",
+        "Odds ratio",
+        "Health equity",
+        "Physical abuse",
+        "Disadvantaged"
+      ],
+      "scores": {
+        "relevance": 1.6,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.77
+      },
+      "matched_domains": [
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health equity",
+        "social determinants of health",
+        "vulnerable populations"
+      ]
+    },
+    {
+      "id": "W7130591126",
+      "title": "Cumulative Effects of Adverse Social Determinants of Health on Asthma Risk: Evidence from NHANES",
+      "abstract": "Asthma is a chronic inflammatory disease with substantial global public health impact. Emerging evidence suggests that social determinants of health (SDoH) influence asthma risk, yet the cumulative effect of multiple adverse SDoHs remains underexplored. Using data from the National Health and Nutrition Examination Survey (NHANES) from 2007 to 2018, we investigated the association between five specific adverse SDoHs—unemployment, food insecurity, non-private health insurance, renting or non-ownership housing, and being unmarried or not living with a partner—and asthma risk. A cumulative SDoH score was created by summing these five factors, and logistic regression models were used to assess their association with asthma prevalence, adjusting for demographic and clinical factors. Among the 31,075 participants, 14.55% reported having asthma. After adjusting for age, sex, and race, unemployment (AOR = 1.38, 95% CI: 1.24–1.54), food insecurity (AOR = 1.36, 95% CI: 1.24–1.49), non-private insurance (AOR = 1.12, 95% CI: 1.01–1.24), renting (AOR = 1.12, 95% CI: 1.03–1.23), and being unmarried or not living with a partner (AOR = 1.20, 95% CI: 1.10–1.31) were independently associated with higher odds of asthma. The cumulative SDoH score showed a clear dose-response relationship, with higher scores indicating significantly increased odds of asthma (AOR for 5 adverse SDoHs = 2.82, 95% CI: 2.31–3.42). Multiple adverse SDoHs are cumulatively associated with increased asthma risk. These findings underscore the need to integrate social context into asthma prevention and management, particularly for socially vulnerable populations.",
+      "authors": [
+        "Jing Chen",
+        "Xuejing Li"
+      ],
+      "date": "2026-02-19",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.6084/m9.figshare.31369604.v1",
+      "pmid": "",
+      "urls": [
+        "https://doi.org/10.6084/m9.figshare.31369604.v1",
+        "https://doi.org/10.6084/m9.figshare.31369604.v1"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://doi.org/10.6084/m9.figshare.31369604.v1",
+      "concepts": [
+        "Asthma",
+        "Medicine",
+        "Odds",
+        "Environmental health",
+        "Context (archaeology)",
+        "Logistic regression",
+        "Odds ratio",
+        "Public health",
+        "Adverse effect",
+        "National Health and Nutrition Examination Survey",
+        "Demography",
+        "Social determinants of health",
+        "Unemployment",
+        "Disease",
+        "Gerontology",
+        "Socioeconomic status",
+        "Cross-sectional study",
+        "Poverty",
+        "Social environment",
+        "Renting"
+      ],
+      "keywords": [
+        "Asthma",
+        "Medicine",
+        "Odds",
+        "Environmental health",
+        "Context (archaeology)"
+      ],
+      "scores": {
+        "relevance": 1.4,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.68
+      },
+      "matched_domains": [
+        "卫生经济学",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health insurance",
+        "social determinants of health",
+        "vulnerable populations"
+      ]
+    },
+    {
+      "id": "W7130612698",
+      "title": "Cumulative effects of adverse social determinants of health on asthma risk: evidence from NHANES",
+      "abstract": "Asthma is a chronic inflammatory disease with substantial global public health impact. Emerging evidence suggests that social determinants of health (SDoH) influence asthma risk, yet the cumulative effect of multiple adverse SDoHs remains underexplored. Using data from the National Health and Nutrition Examination Survey (NHANES) from 2007 to 2018, we investigated the association between five specific adverse SDoHs—unemployment, food insecurity, non-private health insurance, renting or non-ownership housing, and being unmarried or not living with a partner—and asthma risk. A cumulative SDoH score was created by summing these five factors, and logistic regression models were used to assess their association with asthma prevalence, adjusting for demographic and clinical factors. Among the 31,075 participants, 14.55% reported having asthma. After adjusting for age, sex, and race, unemployment (AOR = 1.38, 95% CI: 1.24–1.54), food insecurity (AOR = 1.36, 95% CI: 1.24–1.49), non-private insurance (AOR = 1.12, 95% CI: 1.01–1.24), renting (AOR = 1.12, 95% CI: 1.03–1.23), and being unmarried or not living with a partner (AOR = 1.20, 95% CI: 1.10–1.31) were independently associated with higher odds of asthma. The cumulative SDoH score showed a clear dose-response relationship, with higher scores indicating significantly increased odds of asthma (AOR for 5 adverse SDoHs = 2.82, 95% CI: 2.31–3.42). Multiple adverse SDoHs are cumulatively associated with increased asthma risk. These findings underscore the need to integrate social context into asthma prevention and management, particularly for socially vulnerable populations.",
+      "authors": [
+        "Jing Chen",
+        "Xuejing Li"
+      ],
+      "date": "2026-02-19",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.6084/m9.figshare.31369604",
+      "pmid": "",
+      "urls": [
+        "https://doi.org/10.6084/m9.figshare.31369604",
+        "https://doi.org/10.6084/m9.figshare.31369604"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://doi.org/10.6084/m9.figshare.31369604",
+      "concepts": [
+        "Asthma",
+        "Medicine",
+        "Odds",
+        "Environmental health",
+        "Context (archaeology)",
+        "Logistic regression",
+        "Odds ratio",
+        "Public health",
+        "Adverse effect",
+        "National Health and Nutrition Examination Survey",
+        "Demography",
+        "Social determinants of health",
+        "Unemployment",
+        "Disease",
+        "Gerontology",
+        "Socioeconomic status",
+        "Cross-sectional study",
+        "Poverty",
+        "Social environment",
+        "Renting"
+      ],
+      "keywords": [
+        "Asthma",
+        "Medicine",
+        "Odds",
+        "Environmental health",
+        "Context (archaeology)"
+      ],
+      "scores": {
+        "relevance": 1.4,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.68
+      },
+      "matched_domains": [
+        "卫生经济学",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health insurance",
+        "social determinants of health",
+        "vulnerable populations"
+      ]
+    },
+    {
+      "id": "W7133201169",
+      "title": "Cumulative effects of adverse social determinants of health on asthma risk: evidence from NHANES",
+      "abstract": "Asthma is a chronic inflammatory disease with substantial global public health impact. Emerging evidence suggests that social determinants of health (SDoH) influence asthma risk, yet the cumulative effect of multiple adverse SDoHs remains underexplored. Using data from the National Health and Nutrition Examination Survey (NHANES) from 2007 to 2018, we investigated the association between five specific adverse SDoHs—unemployment, food insecurity, non-private health insurance, renting or non-ownership housing, and being unmarried or not living with a partner—and asthma risk. A cumulative SDoH score was created by summing these five factors, and logistic regression models were used to assess their association with asthma prevalence, adjusting for demographic and clinical factors. Among the 31,075 participants, 14.55% reported having asthma. After adjusting for age, sex, and race, unemployment (AOR = 1.38, 95% CI: 1.24–1.54), food insecurity (AOR = 1.36, 95% CI: 1.24–1.49), non-private insurance (AOR = 1.12, 95% CI: 1.01–1.24), renting (AOR = 1.12, 95% CI: 1.03–1.23), and being unmarried or not living with a partner (AOR = 1.20, 95% CI: 1.10–1.31) were independently associated with higher odds of asthma. The cumulative SDoH score showed a clear dose-response relationship, with higher scores indicating significantly increased odds of asthma (AOR for 5 adverse SDoHs = 2.82, 95% CI: 2.31–3.42). Multiple adverse SDoHs are cumulatively associated with increased asthma risk. These findings underscore the need to integrate social context into asthma prevention and management, particularly for socially vulnerable populations.",
+      "authors": [
+        "Chen, Jing",
+        "Li, Xuejing"
+      ],
+      "date": "2026-02-19",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.6084/m9.figshare.31369604.v2",
+      "pmid": "",
+      "urls": [
+        "https://doi.org/10.6084/m9.figshare.31369604.v2"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": null,
+      "concepts": [
+        "Asthma",
+        "Medicine",
+        "Odds",
+        "Environmental health",
+        "Context (archaeology)",
+        "Logistic regression",
+        "Odds ratio",
+        "Public health",
+        "Adverse effect",
+        "National Health and Nutrition Examination Survey",
+        "Demography",
+        "Social determinants of health",
+        "Unemployment",
+        "Disease",
+        "Gerontology",
+        "Socioeconomic status",
+        "Cross-sectional study",
+        "Poverty",
+        "Social environment",
+        "Renting"
+      ],
+      "keywords": [
+        "Asthma",
+        "Medicine",
+        "Odds",
+        "Environmental health",
+        "Context (archaeology)"
+      ],
+      "scores": {
+        "relevance": 1.4,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.68
+      },
+      "matched_domains": [
+        "卫生经济学",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health insurance",
+        "social determinants of health",
+        "vulnerable populations"
+      ]
+    },
+    {
+      "id": "W7135031139",
+      "title": "Social determinants of health and quality of life among Korean Americans with chronic hepatitis B",
+      "abstract": "Hepatitis B virus (HBV) infection disproportionately affects Korean Americans, who often experience persistent social and structural challenges that may influence quality of life. Recent community studies showed most Korean Americans with chronic hepatitis B (CHB) were disengaged from clinical care, emphasizing the need to better understand factors affecting their well-being. This study examined associations between social determinants of health (SDOH) and physical and mental health related quality of life (HRQoL) among Korean Americans with CHB. A total of 365 CHB patients completed the enrollment survey. SF-12 was used to measure quality of life, calculating physical and mental components summary scores (PCS-12 and MCS-12). SDOH were measured across five domains, including education (highest education level, survey language), economic stability (employment, income, financial sufficiency), social/community context (marital status, social support), neighborhood (perceived social cohesion, physical disorder), and health care access (primary care provider, health insurance). Descriptive statistics and multivariable linear regression were used. Participants had a mean age of 60.1 years, and 44% were female. In multiple linear regression analyses, being employed (PCS β = 1.77, 95% CI: 0.16–3.38; MCS β = 1.99, 95% CI: 0.38–3.61) and financial sufficiency (PCS β = 2.38, 95% CI: 0.44–4.32; MCS β = 3.93, 95% CI: 1.98–5.87) was positively associated with PCS-12 and MCS-12 scores. Social support (β = 0.17, 95% CI: 0.09–0.25) and perceived neighborhood social cohesion (β = 0.24, 95% CI: 0.01–0.47) were associated with better mental health, while being married (β = 2.62, 95% CI: 0.76–4.47) was associated with better physical health. In addition, females (β = -2.52, 95% CI: -3.93 to -1.10) had lower levels of physical health than males. Older adults reported worse physical (β = -0.13, 95% CI: -0.21 to -0.05) but better mental health (β = 0.18, 95% CI: 0.10–0.25). Economic stability, social support, and neighborhood cohesion are the key determinants of quality of life among Korean Americans with CHB. These findings emphasize the need for interventions that address both structural and psychosocial factors to improve quality of life in this underserved population.",
+      "authors": [
+        "Cindy Xin Fang",
+        "Yoonjin Nam",
+        "Ann C. Klassen",
+        "Hee-Soon Juon"
+      ],
+      "date": "2026-03-12",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.1186/s12889-026-26970-9",
+      "pmid": "",
+      "urls": [
+        "https://doi.org/10.1186/s12889-026-26970-9",
+        "https://doi.org/10.1186/s12889-026-26970-9"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://doi.org/10.1186/s12889-026-26970-9",
+      "concepts": [
+        "Medicine",
+        "Biostatistics",
+        "Social determinants of health",
+        "Mental health",
+        "Gerontology",
+        "Public health",
+        "Quality of life (healthcare)",
+        "Social support",
+        "Epidemiology",
+        "Context (archaeology)",
+        "Descriptive statistics",
+        "Environmental health",
+        "Health care",
+        "Social environment",
+        "Health equity",
+        "Cross-sectional study",
+        "Regression analysis",
+        "Community health",
+        "Social inequality",
+        "Demography",
+        "Health promotion",
+        "Social isolation",
+        "Social epidemiology",
+        "Race and health",
+        "Socioeconomic status"
+      ],
+      "keywords": [
+        "Medicine",
+        "Biostatistics",
+        "Social determinants of health",
+        "Mental health",
+        "Gerontology"
+      ],
+      "scores": {
+        "relevance": 1.4,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.68
+      },
+      "matched_domains": [
+        "卫生政策",
+        "卫生经济学",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health insurance",
+        "social determinants of health",
+        "health care access"
+      ]
+    },
+    {
+      "id": "W7130376775",
+      "title": "Advancing telehealth equity: Addressing barriers across social determinants of health",
+      "abstract": "Social determinants of health (SDoH), including economic stability, education, healthcare access, neighborhood environment, and community context, play a critical role in shaping health outcomes. Telehealth, defined as the use of digital and telecommunications technologies to deliver healthcare remotely, presents both opportunities and risks for equity. It can reduce barriers such as transportation costs and distance, yet it may also deepen disparities among populations with limited digital access or literacy. This review highlights lessons from selected global and U.S. telehealth programs to examine how SDoH influence adoption and outcomes. Key challenges include digital literacy gaps, privacy concerns, cultural preferences for in-person care, provider training deficits, infrastructure limitations, and reimbursement inconsistencies. Potential solutions include policy reforms, broadband expansion, digital literacy initiatives, and community-centered approaches. By framing telehealth through an SDoH lens, this review contributes to the literature by clarifying strategies that can advance more equitable and sustainable implementation.",
+      "authors": [
+        "Cyril Blavo",
+        "Nidhi Patel",
+        "Evran E Ural",
+        "Olivia D’Alessio",
+        "Jyotsna Chawla"
+      ],
+      "date": "2026-02-18",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.29333/ejgm/17803",
+      "pmid": "",
+      "urls": [
+        "https://www.ejgm.co.uk/download/advancing-telehealth-equity-addressing-barriers-across-social-determinants-of-health-17803.pdf",
+        "https://doi.org/10.29333/ejgm/17803"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://www.ejgm.co.uk/download/advancing-telehealth-equity-addressing-barriers-across-social-determinants-of-health-17803.pdf",
+      "concepts": [
+        "Telehealth",
+        "Digital divide",
+        "Health equity",
+        "Social determinants of health",
+        "Public relations",
+        "Digital health",
+        "Health care",
+        "Business",
+        "Reimbursement",
+        "Digital literacy",
+        "Framing (construction)",
+        "Economic growth",
+        "Telemedicine",
+        "Health literacy",
+        "Cultural competence",
+        "Literacy",
+        "Health policy",
+        "Language barrier",
+        "Equity (law)",
+        "eHealth",
+        "Global health",
+        "Socioeconomic status",
+        "Political science",
+        "Poverty",
+        "Cultural diversity",
+        "Information and Communications Technology",
+        "Community engagement",
+        "Internet privacy",
+        "Health promotion"
+      ],
+      "keywords": [
+        "Telehealth",
+        "Digital divide",
+        "Health equity",
+        "Social determinants of health",
+        "Public relations"
+      ],
+      "scores": {
+        "relevance": 1.3,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.64
+      },
+      "matched_domains": [
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health equity",
+        "social determinants of health"
+      ]
+    },
+    {
+      "id": "41733311",
+      "title": "Primary health care policy advocacy in Europe: A cross-sectional study of family medicine associations.",
+      "abstract": "Policy advocacy (PA) in European healthcare has a strong tradition promoting evidence-based policies. Key organisations, including the European Observatory on Health Systems and Policies, the WHO's Evidence-Informed Policy Network, and the OECD play pivotal roles in integrating research into policymaking. To assess the involvement of European Family Medicine (FM) Associations in PA, identify key issues, and explore interactions with governmental and institutional bodies related to Primary Health Care (PHC)-defined as first-contact, continuous, comprehensive, and coordinated care provided by general practitioners/family doctors (GPs), in line with the WHO Alma-Ata and Astana declarations-and perceived challenges in PHC advocacy. An exploratory descriptive, cross-sectional study was conducted among WONCA Europe Member Organisations and GPs involved in PA. Data collected between November 2023 and February 2024. Content analysis was performed to identify themes related to advocacy priorities. Responses were received from 12 member organisations across 12 countries and 37 participants from 17 countries. Key concerns included workforce shortages, high workloads, inadequate infrastructure, and insufficient financial compensation. Public visibility, gender equality, and the integration of FM into university curricula were also highlighted. Eleven respondents reported active engagement with national governments in policy discussions. Respondents highlighted the need for a more unified strategy to address common PHC challenges across Europe. WONCA Europe's Working Party on PA supports national efforts through exchange of best practices, research support, and promoting FM at national and European levels. Continued research and advocacy were viewed as essential for sustaining effective and equitable PHC in Europe.",
+      "authors": [
+        "Raquel Gómez-Bravo",
+        "Sara Ares-Blanco",
+        "Nick Mamo",
+        "Marina Guisado-Clavero",
+        "Sandra León-Herrera",
+        "Veronika Rasic",
+        "Ana Luisa Neves",
+        "Andreé Rochfort",
+        "Alex Harding",
+        "Eva Hummers",
+        "Radost Asenova",
+        "Ferdinando Petrazzuoli",
+        "Aaron Poppleton",
+        "Jose Miguel Bueno Ortiz",
+        "Shlomo Vinker",
+        "Maria Pilar Astier-Peña",
+        "Thomas Frese"
+      ],
+      "date": "2026",
+      "year": 2026,
+      "journal": "The European journal of general practice",
+      "doi": "",
+      "pmid": "41733311",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41733311/"
+      ],
+      "citation_count": 0,
+      "source": "PubMed",
+      "is_open_access": false,
+      "open_access_url": "",
+      "concepts": [],
+      "keywords": [],
+      "scores": {
+        "relevance": 1.6,
+        "recency": 2.5,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.6
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "primary health care",
+        "health care policy",
+        "health system"
+      ]
+    },
+    {
+      "id": "W7134200403",
+      "title": "Association between social determinants of health and sarcopenia: A cross-sectional study",
+      "abstract": "<title>Abstract</title> Background Social factors significantly influence health. Existing studies indicate that lower socioeconomic status and malnutrition are risk factors for sarcopenia. Nevertheless, the connection between multiple social determinants of health (SDoH) and sarcopenia has not been thoroughly investigated. Methods We analyzed four survey cycles from the cohort of adults aged 20 years and above in the 2011–2018 National Health and Nutrition Examination Survey. The domains of SDoH include employment; poverty income ratio; food security; education; health insurance coverage; health insurance type; housing conditions; and marital status. Sarcopenia was defined as appendicular skeletal muscle mass (ASM) standardized by the body mass index (ASM/BMI). Weighted multivariable logistic regression models were employed to investigate the associations between SDoH and sarcopenia. Restricted cubic splines (RCS) was employed to explore the potential non-linear association between SDoH and sarcopenia, while subgroup analyses and interaction tests were used to assess model robustness. Results The study incorporated 8,270 adult participants, whose average age was 40 ± 12 years. The sample comprised 50.0% males and 50.0% females, a weighted prevalence of sarcopenia of 7.1%. Fully adjusted logistic regression models indicated that each one-unit increase in SDoH was associated with a significant 25% increase in sarcopenia risk (OR = 1.25, 95% CI: 1.19–1.32, P &lt; 0.001).RCS curves revealed a dose-response relationship between SDoH and sarcopenia. After full adjustment for confounding factors, employment status, housing condition, and marital status were positively associated with the risk of sarcopenia (p &lt; 0.05). Subgroup analyses indicated that the impact of SDoH was attenuated among smokers and individuals with diabetes (interaction P-values = 0.048 and 0.037, respectively). Conclusion The cumulative burden of adverse SDoH among U.S. adults is significantly associated with an increased risk of sarcopenia, with key modifiable factors including financial hardship, housing instability, and single status. The findings indicate that sarcopenia is not merely a biomedical issue but is profoundly shaped by social environments. To address sarcopenia and promote healthy aging, comprehensive public policies aimed at mitigating adverse social factors are urgently needed.",
+      "authors": [
+        "Xiaolei Hu",
+        "Hongyan He",
+        "Yetao Luo",
+        "Yuan Gao",
+        "Yue Wu",
+        "Kang Luo",
+        "Qian Xiao"
+      ],
+      "date": "2026-03-08",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.21203/rs.3.rs-8969121/v1",
+      "pmid": "",
+      "urls": [
+        "https://www.researchsquare.com/article/rs-8969121/latest.pdf",
+        "https://doi.org/10.21203/rs.3.rs-8969121/v1"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://www.researchsquare.com/article/rs-8969121/latest.pdf",
+      "concepts": [
+        "Logistic regression",
+        "Socioeconomic status",
+        "Social determinants of health",
+        "Gerontology",
+        "Marital status",
+        "Confounding",
+        "Sarcopenia",
+        "Demography",
+        "Medicine",
+        "Body mass index",
+        "Poverty",
+        "Odds ratio",
+        "Health equity",
+        "Environmental health",
+        "Association (psychology)",
+        "Cohort",
+        "Social class",
+        "Malnutrition",
+        "Cohort study",
+        "Psychology",
+        "National Health and Nutrition Examination Survey",
+        "Odds",
+        "National Health Interview Survey",
+        "Ordered logit",
+        "Public health",
+        "Cross-sectional study",
+        "Obesity",
+        "Multivariate analysis",
+        "Risk factor"
+      ],
+      "keywords": [
+        "Logistic regression",
+        "Socioeconomic status",
+        "Social determinants of health",
+        "Gerontology",
+        "Marital status"
+      ],
+      "scores": {
+        "relevance": 1.1,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.55
+      },
+      "matched_domains": [
+        "卫生经济学",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health insurance",
+        "social determinants of health"
+      ]
+    },
+    {
+      "id": "W7133139574",
+      "title": "Comparison of Emergency Department Patients with Salpingitis and Oophoritis with and without Documented Social Determinants of Health",
+      "abstract": "Introduction: Social determinants of health (SDoH) have emerged as a critical focus of research due to their significant impact on clinical outcomes; however, there is a gap in research specific to women’s health. Understanding the factors underlying trends in gynecologic emergency diagnoses requires a more comprehensive examination of SDoH. In this study we characterize the demographic and clinical profile of patients with documented SDoH International Classification of Diseases, 10th revision (ICD-10), Z codes (Z55-Z65) who presented to the emergency department (ED) with salpingitis and oophoritis, and explore patterns of healthcare utilization and management. Methods: In this retrospective cohort study we used TriNetX Research Network data to compare adult females (18-49 years of age) presenting to the ED with diagnosed salpingitis and oophoritis between January 1, 2000–January 1, 2024, by presence or absence of SDoH Z codes. Propensity score matching balanced baseline demographics and comorbidities. The outcomes assessed one year from ED presentation included surgical intervention, hospital admission, ED revisits, utilization of critical care service, analgesic use, and new mental health diagnoses such as anxiety, post-traumatic stress disorder, and depression. Risk analyses compared outcome proportions between cohorts, reported as risk ratios (RR) with 95% confidence intervals. Results: Before propensity score matching, the proportion of the initial cohort that had at least one SDoH Z code was 11.9%. Following propensity score matching, we analyzed 5,570 patients, 50% of whom had documented SDoH Z codes. We found that 10.2% of patients with documented SDoH Z codes received surgery compared to 15.0% of patients without (RR, 0.679; 95% CI, 0.577-0.799, P &amp;lt; .001). On the contrary, 45.7% of patients with Z codes were hospitalized compared to 34.3% without (RR, 1.333; 95% CI, 1.248-1.423, P &amp;lt; .001). Of patients with SDoH Z codes, 58.1% revisited the ED compared to 45.2% without (RR, 1.287; 95% CI, 1.222-1.355, P &amp;lt; .001). 4.4% of patients with Z codes required critical care services compared to 2.5% without (RR, 1.757; 95% CI, 1.317-2.345, P &amp;lt; .001). Lastly, patients with SDoH Z codes experienced new mental health diagnoses. This included 8.4% with Z codes diagnosed with depression (RR, 1.890; 95% CI, 1.432-2.495, P &amp;lt; .001) compared to 4.6% without, 11.1% with Z codes diagnosed with anxiety (RR, 1.565; 95% CI, 1.241-1.973, P &amp;lt; .001) compared to 7.1% without, and 2.7% with Z codes diagnosed with post-traumatic stress disorder (RR, 3.026; 95% CI, 1.897-4.826, P &amp;lt; .001) compared to 0.9% in patients without documented Z codes. Conclusion: Patients with documented ICD-10 Z codes for social determinants of health were less likely to receive surgery but were associated with increased ED repeat visits, hospitalization, need for critical care, and mental health conditions. These findings highlight the clinical relevance of SDoH in acute care utilization and patient outcomes, underscoring the importance of routine screening and documentation of SDoH in electronic health records. Addressing underlying social needs may be a key strategy in reducing healthcare burden and improving long-term outcomes for vulnerable populations.",
+      "authors": [
+        "Claire Farber",
+        "Priya Devanarayan",
+        "Gavin Schaefer-Hood",
+        "Hayes Stancliff",
+        "Catherine Marco"
+      ],
+      "date": "2026-03-01",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.5811/westjem.48931",
+      "pmid": "",
+      "urls": [
+        "https://escholarship.org/content/qt0pc1f7z0/qt0pc1f7z0.pdf",
+        "https://doi.org/10.5811/westjem.48931"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://escholarship.org/content/qt0pc1f7z0/qt0pc1f7z0.pdf",
+      "concepts": [
+        "Medicine",
+        "Emergency department",
+        "Propensity score matching",
+        "Retrospective cohort study",
+        "Confidence interval",
+        "Social determinants of health",
+        "Medical record",
+        "Emergency medicine",
+        "Cohort study",
+        "Diagnosis code",
+        "Cohort",
+        "Health care",
+        "Medical diagnosis",
+        "Health equity",
+        "Family medicine",
+        "Pelvic inflammatory disease",
+        "Odds ratio",
+        "Health department",
+        "Salpingitis",
+        "Demography"
+      ],
+      "keywords": [
+        "Medicine",
+        "Emergency department",
+        "Propensity score matching",
+        "Retrospective cohort study",
+        "Confidence interval"
+      ],
+      "scores": {
+        "relevance": 1.1,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.55
+      },
+      "matched_domains": [
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "social determinants of health",
+        "vulnerable populations"
+      ]
+    },
+    {
+      "id": "W7133532863",
+      "title": "Global Social Determinants of Health: An Overview",
+      "abstract": "A vast gap, over 30 life expectancy years, separates the longest and shortest-lived nations. In rich countries, income and wealth inequality, together with social spending, especially that devoted to improving conditions of early life, explain much of the differences. In the poorest countries, the provision of basic needs such as food, water, and security predominates. These are all under political control. The history of colonialism has impacted these health outcomes, with colonizer countries profiting from exploitation and the colonized paying the health price. The socio-political history is explored to give a synopsis of these health inequity trends. Countries in sub-Saharan Africa, along with Afghanistan and Haiti, fare the worst. A middle range of nations in Asia and Latin America have intermediate outcomes. Rich nations have the best outcomes, although the United States is an outlier with low life expectancy despite spending almost half of the world’s healthcare bill. Various approaches in different regions and times that impact health outcomes are presented. The range of the social gradient in health, the differences in outcomes via class differences, showcases efforts as more or less successful. The current precarious global situation requires an informed public and polity to take action.",
+      "authors": [
+        "Stephen Bezruchka"
+      ],
+      "date": "2026-03-03",
+      "year": 2026,
+      "journal": "",
+      "doi": "https://doi.org/10.5772/intechopen.1014169",
+      "pmid": "",
+      "urls": [
+        "https://www.intechopen.com/citation-pdf-url/1237810",
+        "https://doi.org/10.5772/intechopen.1014169"
+      ],
+      "citation_count": 0,
+      "source": "OpenAlex",
+      "is_open_access": true,
+      "open_access_url": "https://www.intechopen.com/citation-pdf-url/1237810",
+      "concepts": [
+        "Life expectancy",
+        "Social determinants of health",
+        "Polity",
+        "Latin Americans",
+        "Development economics",
+        "Economic growth",
+        "Colonialism",
+        "Political science",
+        "Public health",
+        "Politics",
+        "Global health",
+        "Developing country",
+        "Poverty",
+        "Health care",
+        "Social security",
+        "Health policy",
+        "Social class",
+        "Developed country",
+        "International health",
+        "Geography"
+      ],
+      "keywords": [
+        "Life expectancy",
+        "Social determinants of health",
+        "Polity",
+        "Latin Americans",
+        "Development economics"
+      ],
+      "scores": {
+        "relevance": 1.04,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 2.5,
+        "final": 1.47
+      },
+      "matched_domains": [
+        "健康公平",
+        "健康不平等"
+      ],
+      "matched_keywords": [
+        "gradient in health",
+        "social determinants of health",
+        "health inequity"
+      ]
+    }
+  ]
+}
