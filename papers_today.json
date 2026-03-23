@@ -1,347 +1,206 @@
 {
-  "search_date": "2026-03-19T11:04:16.261616",
+  "search_date": "2026-03-23",
   "date_range": {
-    "start": "2026-02-17T11:04:04.529596",
-    "end": "2026-03-19T11:04:04.529596"
+    "start": "2025-12-23",
+    "end": "2026-03-23"
   },
-  "total_found": 50,
+  "total_found": 100,
   "total_filtered": 10,
   "sources": [
-    "openalex",
-    "core",
     "pubmed",
     "s2"
   ],
   "top_papers": [
     {
-      "id": "41839529",
-      "title": "From face-to-face to e-learning: transitioning to new training models to strengthen the health system by supporting primary healthcare workers in low- and middle-income countries.",
-      "abstract": "Reliance on purely face-to-face in-service training for primary healthcare workers in low- and middle-income countries is increasingly unsustainable. The COVID-19 pandemic accelerated the transition of the University of Cape Town Knowledge Translation Unit's Practical Approach to Care Kit programme from a facility-based cascade model to online and blended learning formats.This paper analyses the implementation of this transition across 29 courses between 2020 and 2023 in South Africa. Using the Health System Process Goals framework, we reflect on the challenges and enablers of e-learning, shifting the focus from digital training as a standalone technical solution to a systemic enabler of health system strengthening.While e-learning expanded access and standardised content, successful implementation relied on addressing systemic barriers. Key learnings include the necessity of subsidised ('reverse-billed') data to ensure equitable access; the superiority of a 'blended' pedagogical model that combines digital content with peer interaction and in-person technical support and the value of automated reporting for workforce management. The systemic barriers included the lack of protected time for learners, which risks placing an inequitable burden on the workforce and reliance on donor funding, challenging long-term institutionalisation.For e-learning to effectively strengthen the health system, it must be integrated into administrative workflows and budget lines. We provide actionable recommendations for Ministries of Health, funders and implementers, advocating for a transition to government-owned platforms, accredited blended learning models and policy that mandates protected time for capacity development.",
+      "id": "PMID:41769226",
+      "pmid": "41769226",
+      "title": "Spending with purpose: tracking health expenditures in Tajikistan to inform progress toward UHC.",
+      "abstract": "This analysis examines trends in health spending in Tajikistan from 2000 to 2022 and situates them within the country's key health financing reforms, with the aim of informing progress toward Universal Health Coverage (UHC) and identifying persistent gaps. By applying data from the WHO Global Health Expenditure Database (GHED), which is structured according to the System of Health Accounts (SHA 2011), and contextualizing results with national policy documents and relevant literature, the paper assesses both expenditure patterns and reform dynamics. While government health spending has increased in absolute terms, it remains modest as a share of GDP and general government expenditure. Out of pocket payments have declined slightly as a share of current health spending, yet they still account for nearly two-thirds, posing barriers to equitable access and financial protection. Recent reform initiatives, such as pooling and strategic purchasing pilots, show potential to improve equity and efficiency; however, their long-term impact will depend on sustained implementation and systematic tracking of expenditures. The findings underscore the importance of tracking expenditure in a systematic way to guide health reform. Institutionalizing the routine production of health accounts using SHA 2011 would improve transparency, strengthen allocative efficiency, and support more strategic resource allocation and informed policy dialogue. Ultimately, tracking health spending is not just a technical exercise, but a strategic tool to align financing with policy priorities and advance UHC.",
       "authors": [
-        "Christy-Joy Ras",
-        "Daniella Georgeu-Pepper",
-        "Robyn Curran",
-        "Ruth Vania Cornick",
-        "Candice Daniels",
-        "Cassandra Bassett",
-        "André Janse van Rensburg",
-        "Elrien Joubert",
-        "Makhosazana Lungile Simelane",
-        "Lauren Faye Anderson",
-        "Pearl Wendy Spiller",
-        "Faye Eshraghi",
-        "Inge Petersen",
-        "Lara R Fairall"
+        "Baktygul Akkazieva",
+        "Ghafur Muhsinzoda",
+        "Malika Khakimova",
+        "Farrukh Egamov",
+        "Ilker Dastan",
+        "Bernd Rechel",
+        "Susannah Robinson",
+        "David Beran"
       ],
-      "date": "2026",
-      "year": 2026,
-      "journal": "BMJ global health",
-      "doi": "",
-      "pmid": "41839529",
-      "urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/41839529/"
-      ],
-      "citation_count": 0,
+      "publication_date": "2026-06-01",
+      "journal": "Health policy OPEN",
+      "doi": "10.1016/j.hpopen.2026.100164",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41769226/",
       "source": "PubMed",
-      "is_open_access": false,
-      "open_access_url": "",
-      "concepts": [],
-      "keywords": [],
+      "citation_count": 0,
       "scores": {
-        "relevance": 1.1,
-        "recency": 2.5,
+        "relevance": 3.0,
+        "recency": 3.0,
         "popularity": 0.0,
-        "quality": 2.5,
-        "final": 1.37
+        "quality": 3.0,
+        "final": 2.4
+      },
+      "matched_domains": [
+        "公共经济学",
+        "卫生政策",
+        "卫生经济学",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "government expenditure",
+        "health expenditure",
+        "health reform",
+        "equitable access",
+        "universal health coverage",
+        "health financing"
+      ]
+    },
+    {
+      "id": "PMID:41733311",
+      "pmid": "41733311",
+      "title": "Primary health care policy advocacy in Europe: A cross-sectional study of family medicine associations.",
+      "abstract": "Policy advocacy (PA) in European healthcare has a strong tradition promoting evidence-based policies. Key organisations, including the European Observatory on Health Systems and Policies, the WHO's Evidence-Informed Policy Network, and the OECD play pivotal roles in integrating research into policymaking. To assess the involvement of European Family Medicine (FM) Associations in PA, identify key issues, and explore interactions with governmental and institutional bodies related to Primary Health Care (PHC)-defined as first-contact, continuous, comprehensive, and coordinated care provided by general practitioners/family doctors (GPs), in line with the WHO Alma-Ata and Astana declarations-and perceived challenges in PHC advocacy. An exploratory descriptive, cross-sectional study was conducted among WONCA Europe Member Organisations and GPs involved in PA. Data collected between November 2023 and February 2024. Content analysis was performed to identify themes related to advocacy priorities. Responses were received from 12 member organisations across 12 countries and 37 participants from 17 countries. Key concerns included workforce shortages, high workloads, inadequate infrastructure, and insufficient financial compensation. Public visibility, gender equality, and the integration of FM into university curricula were also highlighted. Eleven respondents reported active engagement with national governments in policy discussions. Respondents highlighted the need for a more unified strategy to address common PHC challenges across Europe. WONCA Europe's Working Party on PA supports national efforts through exchange of best practices, research support, and promoting FM at national and European levels. Continued research and advocacy were viewed as essential for sustaining effective and equitable PHC in Europe.",
+      "authors": [
+        "Raquel Gómez-Bravo",
+        "Sara Ares-Blanco",
+        "Nick Mamo",
+        "Marina Guisado-Clavero",
+        "Sandra León-Herrera",
+        "Veronika Rasic",
+        "Ana Luisa Neves",
+        "Andreé Rochfort",
+        "Alex Harding",
+        "Eva Hummers",
+        "Radost Asenova",
+        "Ferdinando Petrazzuoli",
+        "Aaron Poppleton",
+        "Jose Miguel Bueno Ortiz",
+        "Shlomo Vinker",
+        "Maria Pilar Astier-Peña",
+        "Thomas Frese"
+      ],
+      "publication_date": "2026-12-01",
+      "journal": "The European journal of general practice",
+      "doi": "10.1080/13814788.2026.2625572",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41733311/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 2.6,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 2.22
+      },
+      "matched_domains": [
+        "卫生政策"
+      ],
+      "matched_keywords": [
+        "primary health care",
+        "health care policy",
+        "health system"
+      ]
+    },
+    {
+      "id": "PMID:41630487",
+      "pmid": "41630487",
+      "title": "Geographic disparities and health inequality evolution in the disease burden of tracheal, bronchus, and lung cancer in Asia: a 33-year longitudinal analysis and future projections.",
+      "abstract": "This study examined geographic patterns, temporal trends, and determinants of tracheal, bronchus, and lung (TBL) cancer burden in Asia (1990-2023), evaluated disparities in health outcomes, and developed projections for targeted prevention initiatives. Data were obtained from the Global Burden of Disease Study 2023. We estimated age-standardized rates (ASPR, ASIR, ASMR, ASDR). Joinpoint regression assessed temporal trends; age-period-cohort and Das Gupta analyses identified underlying mechanisms and drivers. Data envelopment analysis (DEA) evaluated efficiency relative to the Human Development Index (HDI). Health inequalities were measured with the slope index of inequality (SII) and concentration index (CI). Bayesian age-period-cohort (BAPC) modeling projected trends to 2038. Asian populations experienced 2.05 million prevalent cases, 1.40 million incident cases, 1.26 million fatalities, and 29.45 million DALYs in 2023. East Asia had the highest burden. From 1990 to 2023, ASPR increased, while ASMR and ASDR declined. Males and older adults carried disproportionately higher burdens. Decomposition analysis revealed that epidemiological changes and population growth were the major contributors. Inequality worsened, with SII rising from 275.8 to 311.6 and CI consistently negative, indicating concentration in low-HDI regions. Projections suggested further increases in ASPR (+28.7%) and ASIR (+21.6%) by 2038. The TBL cancer burden in Asia is rising, with marked regional, gender, age disparities and deteriorating health equity. East Asia is most affected. Targeted strategies, including enhanced early screening in high-burden areas and improved healthcare accessibility in low-HDI regions, are essential to reduce the disease burden and promote equity.",
+      "authors": [
+        "Hongming Wang",
+        "Xuebo Qin",
+        "Xing'e Zhang",
+        "Nuoni Wang",
+        "Zhijun Wu",
+        "Zemin Xiao"
+      ],
+      "publication_date": "2026-12-01",
+      "journal": "Annals of medicine",
+      "doi": "10.1080/07853890.2026.2624212",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41630487/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 2.58,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 2.21
+      },
+      "matched_domains": [
+        "健康公平",
+        "健康不平等"
+      ],
+      "matched_keywords": [
+        "health inequality",
+        "decomposition analysis",
+        "concentration index",
+        "health equity"
+      ]
+    },
+    {
+      "id": "PMID:41702261",
+      "pmid": "41702261",
+      "title": "Clinical effectiveness and cost-effectiveness of primary community health care nurses: A meta-analysis.",
+      "abstract": "Global shortages in the health-care workforce hinder the achievement of universal health coverage and equitable access to high-quality, affordable health care. Primary community health care nurses have emerged as a strategy to improve access and care quality, but comprehensive evidence on their impact and economic value remains limited. To synthesize evidence on the cost-effectiveness of the use of primary community health care nurses compared with medical practitioners on patient health and economic outcomes. A meta-analysis of economic evaluations alongside randomized controlled trials (RCTs). CINAHL, CENTRAL, Embase, Medline-OVID, PubMed, EconLit, and the National Health Service Economic Evaluation Database were searched until October 2025. The outcomes included patient health outcomes (depression, anxiety, fatigue, activities of daily living, pain, patient satisfaction, total cholesterol, blood pressure, body mass index, mortality) and economic outcomes comprising health resource utilization (outpatient visits, hospitalization, length of stay, generalist medical practitioner consultations, emergency unit visits, specialist medical practitioner visits, and absenteeism) and cost-effectiveness (incremental net monetary benefit from payer and societal perspectives). Data were pooled using a random-effects model, and moderator and meta-regression analyses were conducted to test for heterogeneity. Twenty-one studies involving 14,523 participants were included. Primary community health care nurses significantly improved patient health outcomes (depression: g -0.31; 95% confidence interval -0.47 to -0.15, anxiety: g -0.23; 95% confidence interval -0.35 to -0.11, fatigue: g -0.26; 95% confidence interval -0.45 to -0.07, daily functioning: g 0.08; 95% confidence interval 0.03 to 0.12, patient satisfaction: g 0.25; 95% confidence interval 0.08 to 0.42, and total cholesterol: g -0.38; 95% confidence interval -0.71 to -0.06). They also improved efficiency in health resource utilization (outpatient visit: g -0.33; 95% confidence interval -0.56 to -0.11, hospitalization: g -0.11; 95% confidence interval -0.18 to -0.04, length of stay: g -0.05; 95% confidence interval -0.10 to -0.01, generalist MP consultation: g -0.16; 95% confidence interval -0.25 to -0.08), and exhibited substantial cost-effectiveness (incremental net monetary benefit-payer: US$910.99; 95% confidence interval US$561.74 to US$1260.24 and societal: US$1485.2; 95% confidence interval US$273.24 to US$2697.18) compared with medical practitioners. Primary community health care nurses are a cost-effective solution for achieving universal health coverage and sustainable health care, demonstrating significant cost-effectiveness from payer and societal perspectives. They improve patient health and health resource utilization especially in reducing outpatient visits, hospitalization, length of stay. Strategic investment in their function is essential for advancing health equity and accessible, high-quality primary health care. PROSPERO: CRD420251018431. This meta-analysis of economic evaluation revealed that primary community health care nurses are cost-effective, improve patient outcomes, and reduce health resource utilization. @4_INAns.",
+      "authors": [
+        "Melati Fajarini",
+        "Chien-Mei Sung",
+        "Yi-Shu Lin",
+        "Pi-Yu Su",
+        "Ruey Chen",
+        "Li-Fang Chang",
+        "Kai-Jo Chiang",
+        "Kuei-Ru Chou"
+      ],
+      "publication_date": "2026-05-01",
+      "journal": "International journal of nursing studies",
+      "doi": "10.1016/j.ijnurstu.2026.105365",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41702261/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 2.4,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 2.13
       },
       "matched_domains": [
         "卫生政策",
         "健康公平"
       ],
       "matched_keywords": [
-        "health system",
-        "equitable access"
+        "primary health care",
+        "equitable access",
+        "universal health coverage",
+        "health equity"
       ]
     },
     {
-      "id": "41849671",
-      "title": "Telehealth Use and Modality Choice Among US Adults: Shorrocks-Shapley Decomposition of a 2022 Cross-Sectional National Survey.",
-      "abstract": "Telehealth use surged during the COVID-19 pandemic and has stabilized at levels substantially above prepandemic baselines. However, concerns persist that the digital divide may reproduce or widen disparities in access. Understanding the determinants of telehealth use-and particularly modality choice between video and audio-is essential for designing policies that promote equitable access in the post-public health emergency era. This study aims to identify determinants of telehealth use and modality among US adults in 2022 and quantify the relative contributions of digital, geographic, clinical, and socioeconomic domains. We conducted a cross-sectional secondary analysis of the sixth cycle of the Health Information National Trends Survey, administered in 2022 by the National Cancer Institute, a nationally representative, 2-stage stratified random probability survey of civilian, noninstitutionalized US adults aged 18 years or older. Sampled households were recruited via mailed invitations, and 1 adult per household was randomly selected using the next birthday method and invited to complete a self-administered questionnaire between February 2022 and November 2022 (N=6252). The primary analytic sample included respondents with nonmissing telehealth modality responses (n=6046, 59.4% female; mean age of 55.1 y). Individual-level data were linked to county-level American Community Survey socioeconomic indicators and broadband availability measures. The primary outcome was telehealth use, categorized as video (n=1641, 27.2%; 95% CI 25.5%-29.1%), audio-only (n=876, 12.1%; 95% CI 10.9%-13.4%), or none (n=3529, 60.7%; 95% CI 58.6%-62.7%). We estimated 4 binary contrasts using survey-weighted linear probability models with jackknife variance estimation, reporting absolute risk differences in percentage points (pp) with 95% CIs. We applied Shorrocks-Shapley decomposition to quantify each predictor domain's contribution to explained variance. Nationally, 39.3% (n=2517; 95% CI 37.3%-41.4%) reported any telehealth use in the past 12 months. In survey-weighted linear probability models (α=.05), significant predictors of any telehealth vs none included: male sex (-9.7 pp, 95% CI -14.0 to -5.4), disability status (+22.5 pp, 95% CI 16.1-28.8), and health app use (+18.4 pp, 95% CI 12.0-24.8). For video vs audio-only telehealth, insurance coverage increased video use (+21.2 pp, 95% CI 13.0-29.3), while basic cell phone only (vs smartphone) decreased video use (-20.1 pp, 95% CI -33.5 to -6.8). Shorrocks-Shapley decomposition revealed that digital access and eHealth behaviors explained 40.4% of variance in video vs audio choice and 33.4% of video vs none; geography explained 40.5% of audio vs none; digital factors (25.7%), geography (19.7%), and health status and needs (15.5%) all contributed substantially to any vs none. Digital access and eHealth behaviors collectively explain more variance in modality choice than traditional sociodemographic factors. Telehealth uptake reflects a combination of digital factors, geography, and clinical need, whereas video modality specifically hinges on digital readiness. Interventions pairing sustained insurance coverage with targeted investments in device access, affordable high-speed connectivity, and digital literacy training are most likely to narrow persistent telehealth gaps.",
+      "id": "PMID:41511768",
+      "pmid": "41511768",
+      "title": "Expanding Social Health Insurance Coverage for the Informal Sector in Zambia: Lessons and Insights from LMICs.",
+      "abstract": "Progress toward Universal Health Coverage (UHC) remains a priority for low- and middle-income countries (LMICs). For countries that have adopted Social Health Insurance (SHI) as a strategy, expanding coverage among informal sector households presents an important pathway to this goal. This scoping review examines strategies and interventions employed in LMICs to improve the enrollment and retention of informal sector households in SHI schemes. The review highlights common barriers, including irregular incomes, limited awareness, administrative challenges, and trust deficits. Potential strategies include designing flexible contribution mechanisms, simplified registration processes, targeted awareness campaigns, leveraging existing community structures, and designing comprehensive benefit packages that balance coverage goals with fiscal sustainability. Our findings emphasize the importance of context-specific and innovative approaches that could include tiered premiums, mobile payment platforms, and partnerships with microfinance institutions to address financial and logistical barriers. However, there is also evidence to suggest that net revenue gains from contributory mechanisms are typically modest, with enrollment expansion often requiring substantial public subsidies and incurring additional administrative costs. For Zambia, integrating some of these lessons into the National Health Insurance Scheme (NHIS) offers a pathway to enhancing coverage among the informal sector and advancing equitable access to healthcare, while acknowledging the fiscal constraints.",
       "authors": [
-        "Corneliu Bolbocean",
-        "Corey Hayes",
-        "Cari Bogulski"
+        "Oliver Kaonga",
+        "Jackson Otieno",
+        "Mark Malema",
+        "Mary Mwami",
+        "Lukundo Simwinga",
+        "Rose Oronje"
       ],
-      "date": "2026",
-      "year": 2026,
-      "journal": "Journal of medical Internet research",
-      "doi": "",
-      "pmid": "41849671",
-      "urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/41849671/"
-      ],
-      "citation_count": 0,
+      "publication_date": "2026-12-31",
+      "journal": "Health systems and reform",
+      "doi": "10.1080/23288604.2025.2592387",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41511768/",
       "source": "PubMed",
-      "is_open_access": false,
-      "open_access_url": "",
-      "concepts": [],
-      "keywords": [],
-      "scores": {
-        "relevance": 0.9,
-        "recency": 2.5,
-        "popularity": 0.0,
-        "quality": 2.5,
-        "final": 1.28
-      },
-      "matched_domains": [
-        "健康公平"
-      ],
-      "matched_keywords": [
-        "health gap",
-        "equitable access"
-      ]
-    },
-    {
-      "id": "41703744",
-      "title": "Video, mail, and medical assistance request telemedicine consultations at Steno Diabetes Center Greenland.",
-      "abstract": "Greenland's geography and dispersed settlements impede equitable access to care. To address this, Steno Diabetes Center Greenland (SDCG) implemented a telemedicine programme (2021-2024) comprising client-to-provider video (VC), client-to-provider mail, and provider-to-provider Medical Assistance Requests (MAR). The aim of this study was to describe utilization of the newly implemented telemedicine modalities at SDCG from 2021 to 2024. The study was conducted as a cross-sectional, register-based study using electronic medical record data extracted January 15, 2025. All SDCG contacts from January 1, 2021, to December 31, 2024, were included. Consultations were classified as face-to-face, administrative, telephone, mail, or video. Total telemedicine comprised all non-face-to-face modalities. In total, 43,190 consultations were registered. Overall activity increased by 56% from 2021 to 2024. In 2024, telemedicine constituted 70% of all consultations. The newly implemented modalities accounted for 40% of all consultations in 2024. VC rose by >2,000% during the period to around 7% in 2024; mail increased from zero to 14% in 2024. Administrative consultations grew by 57%, driven by an increase in MAR. In conclusion, the newly implemented telemedicine modalities were rapidly and sustainably integrated into SDCG, enhancing access and continuity. The swift toward video, mail, and MAR supports further scale-up across the Greenlandic Health System. Client and providers experiences as a well as effect on clinical quality in Greenland needs to be addressed in future research.",
-      "authors": [
-        "Liv Ammitzbøll Rasmussen",
-        "Michael Lynge Pedersen"
-      ],
-      "date": "2026",
-      "year": 2026,
-      "journal": "International journal of circumpolar health",
-      "doi": "",
-      "pmid": "41703744",
-      "urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/41703744/"
-      ],
       "citation_count": 0,
-      "source": "PubMed",
-      "is_open_access": false,
-      "open_access_url": "",
-      "concepts": [],
-      "keywords": [],
       "scores": {
-        "relevance": 0.6,
-        "recency": 2.5,
+        "relevance": 2.2,
+        "recency": 3.0,
         "popularity": 0.0,
-        "quality": 2.5,
-        "final": 1.15
-      },
-      "matched_domains": [
-        "卫生政策",
-        "健康公平"
-      ],
-      "matched_keywords": [
-        "health system",
-        "equitable access"
-      ]
-    },
-    {
-      "id": "41809388",
-      "title": "Nationwide decline in psychiatric hospitalizations and costs in Brazil, 2008-2022: a retrospective descriptive study evidencing reform-driven community mental health gains.",
-      "abstract": "Neuropsychiatric disorders are among the leading causes of disability worldwide, generating substantial healthcare utilization and costs. Brazil, which hosts the world's largest universal public health system, implemented psychiatric reform to reduce dependence on long-term hospitalization and expand community-based services. The study aimed to assess hospitalization trends in Brazil between 2008 and 2022. We conducted a nationwide, retrospective analysis of administrative data from Brazil's Hospital Information System (SIH/SUS) covering all psychiatric admissions (ICD-10, Chapter V) from 2008 to 2022. Outcomes included admission rates, length of stay, diagnostic distribution, demographic and regional disparities, and total hospitalization costs, adjusted for inflation. Data were standardized using WHO population projections and Markov chain Monte Carlo. Psychiatric hospitalizations declined by more than 50%, from 314,686 admissions (315 per 100,000 people) in 2008 to 151,113 (151 per 100,000) in 2022. The mean length of stay fell from 45.1 to 22.1 days. Schizophrenia spectrum disorders remained the leading cause of admission but decreased substantially (from 151 to 53 per 100,000 people), while mood disorders increased particularly among female adolescents (from 12 to 16 per 100,000 people). Males were hospitalized 70% more compared to females (males: 174; females: 102 per 100,000 people in 2021), mainly for substance- (males: 37; females: 10 per 100,000 people in 2021) and alcohol-related disorders (males: 32; females: 4 per 100,000 people in 2021). Marked regional variation persisted, with slower declines in the North. Total hospitalization costs fell by over 75% between 2010 (R$1,123,798,345) and 2022 (R$290,769,856), reflecting a sustained shift from hospital-based to community-based care. Brazil's sustained reduction in psychiatric hospitalizations and costs demonstrates the long-term success of psychiatric reform and the expansion of community-based mental health care. However, regional and demographic inequities underscore the need for targeted investments to ensure equitable access and expand reform achievements amid policy fluctuations. CNPq, INCT, CAPES, FAPEMIG.",
-      "authors": [
-        "Bruna Lopes Resende",
-        "João Sérgio da Fonseca Guimarães",
-        "Ana Luiza Amâncio Caetano",
-        "Ana Luiza Matos De Oliveira",
-        "Bruno Rezende Souza",
-        "André Gustavo Oliveira"
-      ],
-      "date": "2026",
-      "year": 2026,
-      "journal": "Lancet regional health. Americas",
-      "doi": "",
-      "pmid": "41809388",
-      "urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/41809388/"
-      ],
-      "citation_count": 0,
-      "source": "PubMed",
-      "is_open_access": false,
-      "open_access_url": "",
-      "concepts": [],
-      "keywords": [],
-      "scores": {
-        "relevance": 0.6,
-        "recency": 2.5,
-        "popularity": 0.0,
-        "quality": 2.5,
-        "final": 1.15
-      },
-      "matched_domains": [
-        "卫生政策",
-        "健康公平"
-      ],
-      "matched_keywords": [
-        "health system",
-        "equitable access"
-      ]
-    },
-    {
-      "id": "41805661",
-      "title": "Use of Telemental Health Care by Adults in the United States.",
-      "abstract": "Although the recent proliferation of telemental health care has transformed delivery of outpatient mental health care for many patients, little is known about population-level access to telehealth, hybrid, and in-person outpatient mental health care in the US. The objective of this report is to characterize patterns of all telehealth, hybrid, and all in-person outpatient mental health care by US adults. An analysis is presented of 2021-2022 Medical Expenditure Panel Survey data (n=39,561) focusing on annual percentages of adults receiving all telehealth, hybrid, and all in-person outpatient mental health care. Results are presented overall and stratified by sociodemographic characteristics. Differences are reported in average marginal estimates from logistic regressions for each sociodemographic characteristic controlling for age group, sex, and psychological distress (Kessler-6). Approximately 12.0% of adults annually received outpatient mental health care, including 3.3% all telemental health care, 2.6% hybrid, and 6.1% all in-person mental health care. After controlling for age, sex, and distress, unemployed adults 65 years of age or younger were less likely than employed adults to receive all mental health care (-1.0 percentage points, 95% CI: -1.6 to -0.4), and uninsured individuals were less likely than those with private insurance (-2.8 percentage points, 95% CI: -3.6 to -1.9). By contrast, college graduates were 3.2 percentage points (95% CI: 2.3-4.0) more likely than those with less than a high school diploma, higher-income individuals were 1.6 percentage points (95% CI: 0.8-2.30) more likely than those below the poverty level, and urban residents were 1.9 percentage points (95% CI: 1.1-2.7) more likely than rural residents to receive all telemental health care. These national patterns highlight differences in US telemental health care access across employment, education, income, insurance, and geographic groups.",
-      "authors": [
-        "Mark Olfson",
-        "Chandler McClellan",
-        "Samuel H Zuvekas",
-        "Carlos Blanco"
-      ],
-      "date": "2026",
-      "year": 2026,
-      "journal": "Medical care",
-      "doi": "",
-      "pmid": "41805661",
-      "urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/41805661/"
-      ],
-      "citation_count": 0,
-      "source": "PubMed",
-      "is_open_access": false,
-      "open_access_url": "",
-      "concepts": [],
-      "keywords": [],
-      "scores": {
-        "relevance": 0.6,
-        "recency": 2.5,
-        "popularity": 0.0,
-        "quality": 2.5,
-        "final": 1.15
-      },
-      "matched_domains": [
-        "卫生政策",
-        "卫生经济学"
-      ],
-      "matched_keywords": [
-        "medical expenditure",
-        "health care access"
-      ]
-    },
-    {
-      "id": "41839421",
-      "title": "Emerging mycoses: a neglected area of concern for global health.",
-      "abstract": "One of the most neglected, yet rapidly developing, areas of concern in global health is the changing epidemiology of fungal infections. The purpose of this narrative review is to draw attention to the pressing need for both a better understanding of the ecological, environmental, and host-related mechanisms underlying these emerging phenomena as well as a greater awareness of the growing clinical and public health significance of fungal diseases. It also highlights the significance of equitable access to fungal diagnostics and antifungal treatments, as well as coordinated surveillance across the One Health framework's environmental, animal, and human interfaces. This review is based on a narrative synthesis of recent literature on emerging mycoses, including epidemiological studies, clinical reports, and global health analyses addressing environmental drivers, pathogen evolution, and health system preparedness. Although many of the causative agents are well-known environmental pathogens; climate change, deforestation, increased human mobility, growing immunosuppressed populations, and ill-equipped healthcare infrastructures are all contributing to fungi emerging as serious public health risks. Blastomyces helicus (formerly Blastomyces dermatitidis), Candidozyma auris (formerly Candida auris), Emergomyces spp., and Sporothrix brasiliensis are a few examples of mycoses with changing epidemiological patterns. Fungal diseases continue to be neglected in international health policies and inadequately incorporated into frameworks for pandemic preparedness, despite their increasing clinical and ecological significance. The world community runs the risk of entering the next era of infectious threats unprepared for the expanding fungal frontier if concurrent investments are not made in clinical training, infection prevention and control, and health system readiness.",
-      "authors": [
-        "Aleksandra Barac",
-        "Oliver A Cornely",
-        "José Ramón Paño-Pardo",
-        "Nitin Gupta",
-        "Pikka Jokelainen",
-        "Marta Mora-Rillo",
-        "Sotirios Tsiodras",
-        "Effrossyni Gkrania-Klotsas",
-        "Cassandra Bulescu",
-        "Galadriel Pellejero-Sagastizabal",
-        "Jon Salmanton-García",
-        "Jan Felix Drexler",
-        "F-Xavier Lescure",
-        "Martin P Grobusch"
-      ],
-      "date": "2026",
-      "year": 2026,
-      "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
-      "doi": "",
-      "pmid": "41839421",
-      "urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/41839421/"
-      ],
-      "citation_count": 0,
-      "source": "PubMed",
-      "is_open_access": false,
-      "open_access_url": "",
-      "concepts": [],
-      "keywords": [],
-      "scores": {
-        "relevance": 0.6,
-        "recency": 2.5,
-        "popularity": 0.0,
-        "quality": 2.5,
-        "final": 1.15
-      },
-      "matched_domains": [
-        "卫生政策",
-        "健康公平"
-      ],
-      "matched_keywords": [
-        "health system",
-        "equitable access"
-      ]
-    },
-    {
-      "id": "41831343",
-      "title": "Development of palliative care in countries participating in the iLIVE project. Spain and Argentina case studies.",
-      "abstract": "To assess the level of development of palliative care in 13 countries participating in the iLIVE project, based on the World Health Organization's Conceptual Framework. The study includes an in-depth analysis of two comparative case studies: Spain and Argentina. A descriptive, cross-sectional, mixed-methods study was conducted using six dimensions and 14 macro-indicators. Key informants in each country provided data from official sources or expert knowledge. A comparative analysis was performed across countries, and a comparative case study approach was applied to Spain and Argentina, including health system profiles and indicator classification. Consensus on final data was reached through discussion groups. Eleven of thirteen countries provided complete or partial data. Most countries reached an advanced level of development, especially regarding the availability of essential medicines. Spain demonstrated higher integration and national policy development, while Argentina showed progress despite structural challenges. Twelve indicators lacked sufficient official data. Although considerable progress has been made, disparities persist in key areas such as education, coordination, and equitable access. The World Health Organization framework proved useful for identifying development gaps and supporting evidence-based policymaking. Regular assessments are necessary to adapt strategies and ensure sustainable palliative care integration.",
-      "authors": [
-        "Eva Víbora-Martín",
-        "Vilma A Tripodoro",
-        "Pilar Barnestein-Fonseca",
-        "Claudia Fischer",
-        "Inmaculada Ruiz-Torreras",
-        "María Luisa Martín-Roselló",
-        "José Miguel Morales-Asencio"
-      ],
-      "date": "2026",
-      "year": 2026,
-      "journal": "Gaceta sanitaria",
-      "doi": "",
-      "pmid": "41831343",
-      "urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/41831343/"
-      ],
-      "citation_count": 0,
-      "source": "PubMed",
-      "is_open_access": false,
-      "open_access_url": "",
-      "concepts": [],
-      "keywords": [],
-      "scores": {
-        "relevance": 0.6,
-        "recency": 2.5,
-        "popularity": 0.0,
-        "quality": 2.5,
-        "final": 1.15
-      },
-      "matched_domains": [
-        "卫生政策",
-        "健康公平"
-      ],
-      "matched_keywords": [
-        "health system",
-        "equitable access"
-      ]
-    },
-    {
-      "id": "41824239",
-      "title": "Cost Effectiveness of First-Line Therapies for Treatment-Naïve Chronic Lymphocytic Leukaemia in South Africa.",
-      "abstract": "Chronic lymphocytic leukaemia (CLL) is a common adult leukaemia, and selecting the most effective first-line treatment is crucial for optimising patient outcomes and managing healthcare costs. While chemoimmunotherapy (CIT) has been the standard approach, targeted therapies offer promising alternatives for treatment-naïve CLL patients. The objective of this study was to evaluate the cost effectiveness of chemoimmunotherapy compared to targeted therapies for treatment-naïve CLL patients in South Africa. A cost-effectiveness analysis was conducted using a Markov model based on three health states: progression-free survival (PFS), progression, and death. The model employed a 15-year time horizon and a 1-month cycle length. Patient-level data were reconstructed, and parametric estimation was used to project long-term clinical outcomes. Cost estimates were derived from national tariffs, reflecting a South African public healthcare perspective, while utilities were sourced from published literature. Outcomes were measured in total costs and quality-adjusted life years (QALYs). Incremental cost-effectiveness ratios (ICERs) were calculated and compared to a willingness-to-pay (WTP) threshold, and sensitivity analyses were conducted to test the robustness of the results. Among the evaluated treatment strategies, chlorambucil-plus-obinutuzumab (ClbO) had the lowest cost and served as the reference comparator. Both CIT regimens were cost effective, with fludarabine, cyclophosphamide, and rituximab (FCR) yielding an ICER of US$1645.52 per QALY gained and bendamustine-plus-rituximab (BR) had an ICER of US$1716.79 per QALY gained, both below the US$3407 WTP threshold, under the model assumptions. Ibrutinib generated the highest QALYs but at a higher cost, resulting in an ICER of US$19,679.52 per QALY gained and a 0% probability of being cost effective at the WTP threshold, while venetoclax-plus-obinutuzumab (VenO) was extendedly dominated, and therefore eliminated from the results. Sensitivity analyses confirmed the robustness of the findings across variations in key parameters. In the South African public healthcare setting, CIT regimens (FCR and BR) represent cost-effective first-line treatment strategies for symptomatic, treatment-naïve CLL. Bendamustine-plus-rituximab emerged as the most decision-robust option under uncertainty, while FCR yielded the lowest point-estimate ICER. Among CIT regimens, FCR may be preferred in fit patients, while BR represents a more decision-robust option in older or unfit populations. Targeted therapies such as ibrutinib and VenO, despite superior clinical efficacy, are not cost effective at current prices. Substantial price reductions, generic entry, or targeted use in high-risk subgroups may improve their value and enable equitable access within South Africa's resource-constrained health system.",
-      "authors": [
-        "Rochelle Woudberg",
-        "Edina Sinanovic"
-      ],
-      "date": "2026",
-      "year": 2026,
-      "journal": "Clinical drug investigation",
-      "doi": "",
-      "pmid": "41824239",
-      "urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/41824239/"
-      ],
-      "citation_count": 0,
-      "source": "PubMed",
-      "is_open_access": false,
-      "open_access_url": "",
-      "concepts": [],
-      "keywords": [],
-      "scores": {
-        "relevance": 0.6,
-        "recency": 2.5,
-        "popularity": 0.0,
-        "quality": 2.5,
-        "final": 1.15
+        "quality": 3.0,
+        "final": 2.04
       },
       "matched_domains": [
         "卫生政策",
@@ -349,95 +208,190 @@
         "健康公平"
       ],
       "matched_keywords": [
-        "cost-effectiveness analysis",
+        "equitable access",
+        "universal health coverage",
+        "health insurance"
+      ]
+    },
+    {
+      "id": "PMID:41757222",
+      "pmid": "41757222",
+      "title": "Inequitable access to medicines for neglected tropical diseases in Europe: health system vulnerabilities and a call for coordinated action.",
+      "abstract": "The COVID-19 pandemic has exposed the vulnerability of the European medicine supply systems, but the lack of access to medicines for diseases of poverty, including neglected tropical diseases (NTDs), is unfrequently brought to the attention of the European policy makers. As a result, clinicians in Europe are forced to \"bricolage solutions\" to treat NTDs: ",
+      "authors": [
+        "Raffaella Ravinetto",
+        "Emmanuel Bottieau",
+        "Daniela Fusco",
+        "Rosalia Marrone",
+        "Steven Van Den Broucke",
+        "Maria-Belen Tarrafeta-Sayas",
+        "Laura Rinaldi",
+        "Irene Losada-Galván",
+        "Guido Calleri",
+        "Marco Albonico"
+      ],
+      "publication_date": "2026-04-01",
+      "journal": "The Lancet regional health. Europe",
+      "doi": "10.1016/j.lanepe.2026.101616",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41757222/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 2.0,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.95
+      },
+      "matched_domains": [
+        "卫生政策",
+        "健康公平"
+      ],
+      "matched_keywords": [
         "health system",
         "equitable access"
       ]
     },
     {
-      "id": "41821079",
-      "title": "Lessons from COVID-19: Perspectives of senior managers and decision-makers in substance use services in Wales.",
-      "abstract": "The COVID-19 pandemic significantly disrupted substance use services, potentially exacerbating existing inequities in access to treatment. This study examines the perspectives of senior managers and decision-makers in Wales regarding equity issues in substance use services during the pandemic. Semi-structured interviews were conducted with fifteen senior managers and decision-makers from various organisations in the substance use field in Wales. Interviews were conducted during autumn 2020. Data were analysed using reflexive thematic analysis to identify key themes related to equity in access to treatment. Key findings highlighted significant disparities between third sector and statutory NHS services, particularly in access to PPE, and recognition as essential workers. The rapid shift to digital service provision exposed a digital divide, potentially excluding vulnerable service users. However, the pandemic also accelerated innovations in service delivery, such as the introduction of long-acting injectable buprenorphine and revised take-home medication policies. Long-term concerns included the economic impact on vulnerable populations, potential increases in mental health issues and substance use, and funding uncertainties for third sector services. The pandemic exposed and exacerbated existing inequities in substance use services while also driving rapid innovation. Findings suggest a need for greater recognition and support for third sector services, strategies to address the digital divide, and sustained funding to ensure equitable access to treatment. These insights can inform policy and practice to develop more equitable and resilient substance use services in preparation for any future crises.",
+      "id": "PMID:41854201",
+      "pmid": "41854201",
+      "title": "Strengthening Primary Health Care in Europe: A Delphi study towards accessibility, equity and continuity of care.",
+      "abstract": "Strengthening Primary Health Care (PHC) is essential for building resilient and equitable health systems, but PHC faces barriers in implementation, resource allocation, and political prioritisation. This study aimed to develop a strategic roadmap to enhance PHC by identifying core values, priorities, and actionable strategies through expert consensus. A two-round Delphi study was conducted with 210 stakeholders from 35 countries, including PHC professionals, policymakers, and public health experts. Participants evaluated the importance, feasibility, and policy prioritisation of key PHC values. Quantitative data were analysed using descriptive statistics. The response rate was 81.4% (171/210) in round one and 73.5% (97/132) in round two. The majority of participants (89%) had a background in medicine. A consensus (>80% agreement) was reached in the first round regarding PHC values. Key recommendations included increasing investment in PHC workforce development, particularly in underserved areas; strengthening health information systems and integrating telehealth solutions; enhancing PHC governance models to support multidisciplinary collaboration and citizen-centred care; and adapting processes to improve chronic care management, end-of-life support, and standardised assessment frameworks. In the second round, when participants assessed the feasibility of these recommendations, agreement levels ranged from 61 to 92%. When asked about the policy prioritisation of these measures, agreement dropped, ranging from 22 to 51%. This study highlights that PHC stakeholders perceive a critical need to align health policies with the core values of PHC, while addressing systemic barriers to implementation. Future efforts should focus on bridging the perceived gap between expert recommendations and political prioritisation to achieve sustainable PHC improvements.",
       "authors": [
-        "Shannon Murray",
-        "Katy Holloway",
-        "Marian Buhociu",
-        "Martin Blakebrough",
-        "Caroline Phipps"
+        "Ileana Gefaell Larrondo",
+        "Sara Ares-Blanco",
+        "Marina Guisado-Clavero",
+        "José Joaquín Mira",
+        "Clara Pérez Esteve",
+        "Limor Adler",
+        "Sherihane Bensemmane",
+        "Milena Kostić",
+        "Achim Mortsiefer",
+        "Ferdinando Petrazzuoli",
+        "Raquel Gómez-Bravo",
+        "Pilar Astier-Peña"
       ],
-      "date": "2026",
-      "year": 2026,
-      "journal": "Substance abuse treatment, prevention, and policy",
-      "doi": "",
-      "pmid": "41821079",
-      "urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/41821079/"
-      ],
-      "citation_count": 0,
+      "publication_date": "2026-12-01",
+      "journal": "The European journal of general practice",
+      "doi": "10.1080/13814788.2026.2619226",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41854201/",
       "source": "PubMed",
-      "is_open_access": false,
-      "open_access_url": "",
-      "concepts": [],
-      "keywords": [],
+      "citation_count": 0,
       "scores": {
-        "relevance": 0.6,
-        "recency": 2.5,
+        "relevance": 1.6,
+        "recency": 3.0,
         "popularity": 0.0,
-        "quality": 2.5,
-        "final": 1.15
+        "quality": 3.0,
+        "final": 1.77
       },
       "matched_domains": [
-        "健康公平"
+        "卫生政策"
       ],
       "matched_keywords": [
-        "vulnerable populations",
-        "equitable access"
+        "primary health care",
+        "health system"
       ]
     },
     {
-      "id": "41763564",
-      "title": "Epidemiological trends and cross-country inequalities in the global burden of Alzheimer's disease and other dementias in postmenopausal women from 1990 to 2021.",
-      "abstract": "To evaluate the trends, cross-country inequalities, and risk factors associated with Alzheimer's disease and other dementias (ADOD) in postmenopausal women globally, and project the disease burden to 2050. The age-standardized rates (ASRs) and 95% uncertainty intervals (UIs) of prevalence, incidence, mortality, and disability-adjusted life-years (DALYs) for ADOD among postmenopausal women were estimated by using the Global Burden of Disease, Injuries, and Risk Factors Study (GBD) 2021 data. The average annual percentage change (AAPC) was calculated using joinpoint regression. A decomposition analysis was performed to quantify the contributions of population growth, aging, and epidemiologic changes. The slope index of inequality (SII) and concentration index, as recommended by the World Health Organization, were used to evaluate the cross-country inequalities in ADOD burden. The ADOD burden among postmenopausal women to 2050 was projected using the Bayesian age-period-cohort analysis (BAPC) model. Risk factor attribution was quantified according to GBD methodology. In 2021, the estimated global ASRs of prevalence, incidence, mortality, and DALYs of ADOD among postmenopausal women were 4414.52 (95%UIs: 3492.78, 5504.77), 751.18 (95%UIs: 517.67, 1019.3), 164.29 (95%UIs: 41.79, 425.37), and 2935.7 (95%UIs: 1349.85, 6306.48) per 100,000 population, respectively. East Asia recorded the highest total number of cases and the highest ASRs of prevalence and incidence, while Central Sub-Saharan Africa showed the highest ASRs of mortality and DALYs. From 1990-2021, the ADOD burden increased most rapidly during 2019-2021. Population growth (82.07% contribution) and aging (12.48%) were the primary drivers of increases in global DALYs. SDI-related inequalities escalated over time, with the SII increasing from 1275.06 [95% confidence interval (CI): 1037.55, 1512.57] in 1990 to 1697.71 (95%CI: 1430.70, 1964.73) in 2021. The BAPC model showed that both the ASRs and case number of prevalence, incidence, mortality, and DALYs were predicted to increase from 2022 to 2050, with predicted ASRs of 6067.51 [95% credible interval (CrI): 2149.42, 9985.60], 1052.37 (95%CrI: 361.2, 1743.54), 186.15 (95%CrI: 90.01, 282.3), and 3602.34 (95%CrI: 1530.01, 5674.67) per 100,000 population in 2050. High fasting plasma glucose was identified as the leading risk factor contributing to ADOD burden. From 1990 to 2021, there was an overall upward trend in the global burden of ADOD among postmenopausal women. Driven by demographic shifts (population growth and aging) and metabolic risks (particularly high fasting plasma glucose), the burden of postmenopausal women with ADOD is expected to increase substantially. Postmenopausal women in higher SDI countries bore a disproportionately higher ADOD burden, and the SDI-related inequalities among countries widened during the study period. These findings highlight major challenges in the prevention, control, and management of ADOD in postmenopausal women. Health authorities should shift from reactive treatments to proactive prevention, emphasizing the establishment of targeted health policies, glucose control, and optimizing medical resource allocation to meet the heterogeneous needs of this vulnerable population.",
+      "id": "PMID:41815384",
+      "pmid": "41815384",
+      "title": "A HEARTS-based integrated model for noncommunicable disease control in primary health care in Peru.",
+      "abstract": "Peru has developed and initiated the scale-up of a HEARTS-based, integrated, person-centered primary health care system to support people living with hypertension, type 2 diabetes mellitus, and chronic kidney disease. The model combines standardized clinical pathways with validated drivers, as well as maturity and performance indexes to promote evidence-based practice and continuous quality improvement across diverse primary care settings. National implementation started in 2024 through a structured capacity-building strategy and the deployment of regional facilitators to support supervision, data quality, and clinical mentoring. Early evaluation indicates progress in clinical standardization and performance monitoring, alongside persistent system-level challenges, including limited clinical training, shortages of essential medicines and diagnostics, and the absence of a unified digital registry. Despite these constraints, Peru's experience shows that integrated, protocol-driven care for noncommunicable diseases can be implemented and scaled in resource-constrained health systems, offering a pragmatic framework for other low- and middle-income countries seeking to address multimorbidity.",
       "authors": [
-        "Junmiao Ge",
-        "Junli Ge",
-        "Mingdong Bao",
-        "Lei Zhang",
-        "Ke Li",
-        "Ang Ji",
-        "Xinggang Mao",
-        "Xiaofan Jiang",
-        "Kangyi Yue",
-        "Jidong Sun",
-        "Peng Luo"
+        "Percy Herrera-Añazco",
+        "Carlos Diaz-Arocutipa",
+        "Pedro Kikushima- Alcántara",
+        "Vicente Benites-Zapata"
       ],
-      "date": "2026",
-      "year": 2026,
-      "journal": "Ageing research reviews",
-      "doi": "",
-      "pmid": "41763564",
-      "urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/41763564/"
-      ],
-      "citation_count": 0,
+      "publication_date": "2026-05-01",
+      "journal": "Lancet regional health. Americas",
+      "doi": "10.1016/j.lana.2026.101427",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41815384/",
       "source": "PubMed",
-      "is_open_access": false,
-      "open_access_url": "",
-      "concepts": [],
-      "keywords": [],
+      "citation_count": 0,
       "scores": {
-        "relevance": 0.54,
-        "recency": 2.5,
+        "relevance": 1.6,
+        "recency": 3.0,
         "popularity": 0.0,
-        "quality": 2.5,
-        "final": 1.12
+        "quality": 3.0,
+        "final": 1.77
       },
       "matched_domains": [
-        "健康不平等"
+        "卫生政策"
       ],
       "matched_keywords": [
-        "decomposition analysis",
-        "concentration index"
+        "primary health care",
+        "health system"
+      ]
+    },
+    {
+      "id": "PMID:41822309",
+      "pmid": "41822309",
+      "title": "Learning Health Systems, Equity, and Bounded Justice: A Critical Scoping Review.",
+      "abstract": "The science of learning health systems (LHSs) has expanded to include equity aims. However, efforts toward this end are nascent. The purpose of this study was to critically examine how equity has been discussed in LHS literature. We conducted a critical scoping review informed by the bounded justice concept. Using Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, Pubmed, Embase, Scopus, and CINAHL Complete (Ebsco) databases were searched to identify relevant literature from inception to June 2024. We used qualitative descriptive analysis for detailed extraction and to identify patterns across equity conceptions in the literature. The search strategy generated 420 articles. Forty articles met the selection criteria. Our analysis generated four interrelated themes: (1)  LHS equity science is emerging, though it still privileges narrow, Westernized approaches. It is imperative that future work more deeply engages health justice traditions to inform LHS theory, research, and practice.",
+      "authors": [
+        "Vivetha Thambinathan",
+        "Katie Lynch",
+        "Maricruz Moya",
+        "Maria G Flores",
+        "Rama Mwenesi Musalia",
+        "Joshua Rubin",
+        "Jenna Lepczyk",
+        "Francesca A Williamson"
+      ],
+      "publication_date": "2026-04-01",
+      "journal": "Learning health systems",
+      "doi": "10.1002/lrh2.70072",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41822309/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 1.6,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.77
+      },
+      "matched_domains": [
+        "卫生政策",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health system",
+        "health justice"
+      ]
+    },
+    {
+      "id": "PMID:41768272",
+      "pmid": "41768272",
+      "title": "Knowledge Architecture for Race and Ethnic Group Defining in Learning Health Systems.",
+      "abstract": "Previous work affirms access and health care challenges persist for multiple racial groups. Race and ethnicity are socially and politically constructed terms conceived to describe and categorize people hierarchically (race) and describe people from a similar national or regional background also sharing common national, cultural, historical, and social experiences (ethnicity). Definitions of race and ethnicity may vary across historical, political, and geographic contexts. This variation challenges health care organizations to reliably measure health care outcomes longitudinally within and between racial and ethnic groups. Further, suboptimal concordance between race and ethnicity self-report vs. electronic health record suggests opportunities exist to improve race and ethnicity data solicitation and capture. Learning Health Systems (LHSs) may be particularly poised to address these challenges, as LHSs commit to equitable, transparent, and accountable engagement of individuals and families in care innovation. This discussion provides a rationale, model, and practical strategy to engage individuals and families in race data defining-an essential antecedent to health equity assessment and intervention development. The discussion encourages testing to ensure the proposed theory and steps beget comprehensive and precise race definitions. Enhanced precision in defining race may subsequently inform equity evaluation and interventions in LHSs.",
+      "authors": [
+        "Matthew F Hudson",
+        "Virginia M S van Staden",
+        "Alicia M Oostdyk",
+        "Julie C Martin"
+      ],
+      "publication_date": "2026-04-01",
+      "journal": "Learning health systems",
+      "doi": "10.1002/lrh2.70071",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41768272/",
+      "source": "PubMed",
+      "citation_count": 0,
+      "scores": {
+        "relevance": 1.6,
+        "recency": 3.0,
+        "popularity": 0.0,
+        "quality": 3.0,
+        "final": 1.77
+      },
+      "matched_domains": [
+        "卫生政策",
+        "健康公平"
+      ],
+      "matched_keywords": [
+        "health system",
+        "health equity"
       ]
     }
   ]
