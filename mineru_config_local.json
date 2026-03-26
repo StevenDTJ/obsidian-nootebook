@@ -1,0 +1,12 @@
+{
+  "api_key": "eyJ0eXBlIjoiSldUIiwiYWxnIjoiSFM1MTIifQ.eyJqdGkiOiI2NTcwMDI1NCIsInJvbCI6IlJPTEVfUkVHSVNURVIiLCJpc3MiOiJPcGVuWExhYiIsImlhdCI6MTc3NDQ4NzI3NywiY2xpZW50SWQiOiJsa3pkeDU3bnZ5MjJqa3BxOXgydyIsInBob25lIjoiIiwib3BlbklkIjpudWxsLCJ1dWlkIjoiODRkZDk0MzktODUyYi00OTE4LWE4OGYtOTRjNzg2Y2U3ZGNhIiwiZW1haWwiOiIiLCJleHAiOjE3ODIyNjMyNzd9.2_kKlbdhidsey5F39nOThu34HrZgVxWSdGMT8u752DqDGxzmUniTvYDRGeS47F922vyObL9BpB8lqRHeKvumzg",
+  "base_url": "https://mineru.net/api/v1/agent",
+  "default_formats": ["markdown", "json"],
+  "output_dir": "./output",
+  "language": "auto",
+  "enable_formula": true,
+  "is_ocr": true,
+  "poll_interval_seconds": 3,
+  "max_wait_seconds": 1800,
+  "request_timeout_seconds": 60
+}
